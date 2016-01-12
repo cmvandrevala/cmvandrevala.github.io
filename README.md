@@ -1,3 +1,3 @@
-# cmvandrevala.github.io
+# Resume Website
 
-A personal portfolio website hosted at cyrusvandrevala.com
+This is my professional website. It contains a brief description about me, my resume, a portfolio of my work, and a means of contacting me.

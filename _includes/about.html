@@ -1,25 +1,46 @@
- <!-- About Section -->
-    <section class="success" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>About</h2>
-                    <hr class="star-light">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p>I am a physics graduate student at Purdue University, interested in quantum computing and science education research. I spend my freetime playing with code and hosting a physics blog.</p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-					<p></p>
-                    <p>You can see my full Curriculum Vitae below. A one-page resume, cover letter, and recommendations are available upon request. Please feel free to contact me anytime!</p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="{{ site.path }}/supporting_docs/curriculum_vitae.pdf" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Curriculum Vitae
-                    </a>
-				</div>
-            </div>
-        </div>
-    </section>
+<section id="about">
+
+  <div class="row">
+
+     <div class="three columns">
+
+        <img class="profile-pic"  src="{{ site.BASE_PATH }}/assets/images/profilepic.jpg" alt="" />
+
+     </div>
+
+     <div class="nine columns main-col">
+
+        <h2>About Me</h2>
+
+        <p>This is a description about me. Make it very long and descriptive. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah. Blah blah blah blah blah.</p>
+
+        <div class="row">
+
+           <div class="columns contact-details">
+
+              <h2>Contact Details</h2>
+              <p class="address">
+					   <span>Cyrus Vandrevala</span><br>
+					   <span>Purdue University<br>
+						     PHYS Room 230<br>
+						     525 Northwestern Avenue<br>
+						     West Lafayette, IN 47906
+                       </span><br>
+                 <span>{{ site.email }}</span>
+				   </p>
+
+           </div>
+
+           <div class="columns download">
+              <p>
+                 <a href="{{ site.BASE_PATH }}/assets/supporting_docs/curriculum_vitae.pdf" class="button"><i class="fa fa-download"></i>Download Curriculum Vitae</a>
+              </p>
+           </div>
+
+        </div> <!-- end row -->
+
+     </div> <!-- end .main-col -->
+
+  </div>
+
+</section> <!-- About Section End-->
