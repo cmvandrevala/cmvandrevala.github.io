@@ -43,6 +43,12 @@ header {
    overflow: hidden;
 }
 
+@media screen and (max-width: 767px) {
+	header {
+		background: #161415 url({{ site.baseurl }}/assets/images/header-background-mobile.jpg) no-repeat top center;
+	}
+}
+
 /* vertically center banner section */
 header:before {
    content: '';
