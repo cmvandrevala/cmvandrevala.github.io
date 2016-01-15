@@ -316,6 +316,24 @@ ul#nav li.current a { color: #F06000; }
 	width: 30%;
 }
 
+@media screen and (max-width: 568px) {
+	.skills .col1 {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.skills .col2 {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.skills .col3 {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+}
+
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
