@@ -36,17 +36,9 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url({{ site.baseurl }}/assets/images/header-background.jpg) no-repeat top center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
+   background: #0B1C1E;
    text-align: center;
    overflow: hidden;
-}
-
-@media screen and (max-width: 767px) {
-	header {
-		background: #161415 url({{ site.baseurl }}/assets/images/header-background-mobile.jpg) no-repeat top center;
-	}
 }
 
 /* vertically center banner section */
