@@ -35,13 +35,33 @@ p {
 
 <h2>Method</h2>
 
-<p>Once we collect the click information for students in a given semester, we bin the responses by a number of parameters including time, student, type of question answered, and whether it was a correct or incorrect answer. We experimented with a number of binning schemes and found that a bin size of two hours allowed us to see interesting patterns in the data without using too much computational power.</p>
+<p>Once we collect the click information for students in a given semester, we bin the responses by a number of parameters including time, student, type of question answered, and whether it was a correct or incorrect answer. We experimented with a number of binning schemes and found that a bin size of twelve hours gave us good information on the general trends of the class while a bin size of two hours allowed us to see detailed patterns in the data without using too much computational power.</p>
 
 <p>From this binned data, we can calculate a variety of descriptive statistics about student's usage of the system throughout the semester. Of course, these statistics are compared with other sources of data including class scores, online surveys, and focus group interview transcripts in order to paint a full picture of what is happening over the course of the semester.</p>
 
-<h2>Results</h2>
+<h2>Results and Discussion</h2>
+
+<p>Below are three animations that show the click statistics in the first unit of the fall 2015 semester of PHYS 24100 (i.e. approximately five weeks of the semester up until the first exam). We have divided up the clicks into twelve hour bins and used similar categories to those presented on the poster (open problem without answering question, answer top-level question, and answer tutorial question). Followup question clicks, while present, represented a small fraction of the total clicks, and thus were not included in this particular animation due to the scale of the y-axis. The x-axis of each graph gives the problem number in order that they were presented during the semester. The y-axis gives the number of clicks on a problem.</p>
+
+<center>
+<p><img width=400 height=300 src={{ site.BASE_URL }}/assets/supporting_docs/fa15_open.gif />
+<img width=400 height=300 src={{ site.BASE_URL }}/assets/supporting_docs/fa15_main.gif /></p>
+
+<p><img width=400 height=300 src={{ site.BASE_URL }}/assets/supporting_docs/fa15_tutorial.gif /></p>
+</center>
+
+<p>A few key things to note about this data:</p>
+
+<ol>
+	<li>The cycles of peaks described on the poster are very easy to see in the animations. Some students might be viewing the problems before the assignment is due, but the vast majority of students focus on a homework assignment in the day or two beforehand.</li>
+	<li>The number of clicks that opened a problem but did nothing else was higher than expected.</li>
+	<li>Followup questions were answered in the first unit, but they represented a very small portion of the click activity per day. Students are skipping the optional followup questions.</li>
+	<li>There is a flurry of click activity before the first exam due to students studying past problems. Analysis shows that tutorials are popular study tools before an exam.</li>
+</ol>
 
 <h2>Conclusions and Further Work</h2>
+
+<p>In the coming weeks we are going to hold a series of focus group sessions to dive into these click results. We want to know how students traverse the CITA system in order to build great tutorials for future generations of PHYS 24100.</p>
 
 </body>
 </html>
