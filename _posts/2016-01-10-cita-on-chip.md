@@ -10,6 +10,6 @@ projectDates: 2012-2016
 projectTags: Research, Big Data, Data Visualization, Education, Software Development
 projectLink: http://chip.physics.purdue.edu/public/241/spring2016/
 clients: Purdue University
-description: Purdue University uses a web-based homework and gradebook system called CHIP (Computerized Homework in Physics) for its introductory classes in electromagnetism. I am designing, coding, and analyzing a set of tutorials with varying structures to determine how students work through online homework problems. Our mixed method analysis of the system will combine graph analytic techniques, diagnostic assignments, and focus group interviews to determine which structures maximize student learning.
+description: Purdue University uses a web-based homework and gradebook system called CHIP (Computerized Homework in Physics) for its introductory classes in electromagnetism. I designed, coded, and analyzed a set of tutorials with varying structures to determine how students work through online homework problems. Our mixed method analysis of the system combined graph analytic techniques, diagnostic assignments, and focus group interviews to determine which structures maximize student learning.
 ---
 
