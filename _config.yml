@@ -24,13 +24,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
-# Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-include: ["_pages"]
+header_pages:
+  - about.md
+  - teaching/index.md
+
 exclude:
   - Gemfile
   - Gemfile.lock
