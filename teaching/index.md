@@ -15,7 +15,7 @@ description: This is a list of classes that I have taught along with resources f
 | Course Number | Semester | Year |
 | ------------- | -------- | ---- |
 | CSC 121       | Spring   | 2024 |
-| [CSC 122](./2024/spring/csc/122/index.md) | Spring   | 2024 |
+| [CSC 122](./2024/spring/csc/122/index.html) | Spring   | 2024 |
 
 ## Physics
 
