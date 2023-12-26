@@ -7,6 +7,8 @@ title: You Want Me to Do What Problems?
 
 Oftentimes, instructors write out assignments using a shorthand like "L6" or "L4-10". Some students find reading these lists of problems difficult. They might interpret "L4-10" as "do problem 4 and problem 10", but the instructor meant for them to do all problems between, and including, 4 - 10.
 
+This problem is available courtey of {% cite jamesYouWantMe2022 %}.
+
 ## Problem Statement
 
 Write a program that accepts an assignment list and prints back a list of all problems assigned.
@@ -115,3 +117,7 @@ Please enter the assignment: M 1-4 evens, 5-9 odds, 10-12
 
 Do problems 2, 4, 5, 7, 9, 10, 11, and 12 of M.
 ```
+
+## Works Cited
+
+{% bibliography --cited %}

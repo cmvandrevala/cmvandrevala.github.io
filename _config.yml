@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-scholar
   - jekyll-seo-tag
 
 header_pages:
@@ -68,3 +69,9 @@ minima:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+scholar:
+  style: modern-language-association
+  locale: en
+  source: /_bibliography/
+  bibliography: sources.bib
