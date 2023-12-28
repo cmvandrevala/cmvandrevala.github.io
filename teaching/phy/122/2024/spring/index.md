@@ -1,7 +1,8 @@
 ---
-layout: page
-title: PHY 122, Spring 2024
-description: This is the homepage for PHY 122 - Introductory Physics II
+layout: course
+title: Introductory Physics II
+course_number: PHY 122
+semester: Spring 2024
 ---
 
 ## Lecture Notes

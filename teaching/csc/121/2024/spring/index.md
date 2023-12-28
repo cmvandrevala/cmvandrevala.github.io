@@ -1,7 +1,8 @@
 ---
-layout: page
-title: CSC 121, Spring 2024
-description: This is the homepage for CSC 121 in the spring 2024 semester.
+layout: course
+title: Computer Science I
+course_number: CSC 121
+semester: Spring 2024
 ---
 
 ## Labs
