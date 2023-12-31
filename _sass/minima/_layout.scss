@@ -294,3 +294,11 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+/**
+ * Coursed
+ */
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
