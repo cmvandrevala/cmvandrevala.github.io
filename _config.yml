@@ -12,10 +12,7 @@
 title: Cyrus Vandrevala
 author:
   name: Cyrus Vandrevala
-description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: The personal website of Cyrus Vandrevala.
 
 markdown: kramdown
 plugins:
@@ -24,7 +21,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - about.md
+  - index.md
   - teaching/index.md
 
 exclude:
@@ -38,9 +35,6 @@ minima:
   # classic	           Default, light color scheme.
   # dark	             Dark variant of the classic skin.
   # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
 
   # Minima date format.
