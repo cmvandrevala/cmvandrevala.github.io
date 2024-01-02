@@ -19,7 +19,7 @@ title: Math Review
 * Calculate dot and cross products of vectors
 * Describe a scalar and vector field, conceptually
 
-## ✅ Sequence
+## 📋 Sequence
 
 * Right-handed coordinate systems
 * Review of trigonometry
@@ -106,6 +106,10 @@ title: Math Review
 
 1. Sketch the gravitational field around the planet Earth when you are zoomed out on a planetary scale.
 2. Sketch the approximate gravitational field near the surface of the Earth (this is the assumption we made for most of PHY 121).
+
+## ✅ Partial Solutions
+
+No solutions today! Otherwise I would just be giving away the answers 😅
 
 ## 📘 Connected Resources
 
