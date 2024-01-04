@@ -3,7 +3,7 @@ layout: page
 title: Resistance is Everything
 ---
 
-## Background Information
+## 🔖 Background Information
 
 A resistor is a piece of electronics equipment that resists the flow of electricity in a circuit. Different resistors can resist electrical flow with different strengths. This strength of resistance is measured in units of ohms ($$\Omega$$).
 
@@ -39,11 +39,11 @@ $$
 
 This is read: "the equivalent resistance of two resistors placed in parallel is the reciprocal of the sum of the reciprocals of the individual resistances".
 
-## Problem Statement
+## 🎯 Problem Statement
 
 Given a user's input of two resistances, calculate the equivalent resistance of the two resistors in series and parallel.
 
-## Acceptance Criteria
+## ✅ Acceptance Criteria
 
 * When I execute the program, I should see a welcome prompt.
 * Then, the program should ask me to enter two values for resistances, separated by a space.
@@ -51,7 +51,11 @@ Given a user's input of two resistances, calculate the equivalent resistance of 
 * Then, the program should print out the equivalent resistance of the two resistors in series and in parallel.
 * Finally, I should see an exit message as the program gracefully exits.
 
-## Example Output
+## 📋 Dev Notes
+
+There are no dev notes for this problem.
+
+## 🖥️ Example Output
 
 ```bash
 $ ./resist.out
@@ -67,7 +71,7 @@ If they are placed in parallel, they will total 9.333333 ohms.
 Thank you for using the RCP!
 ```
 
-## Thought Provoking Questions
+## 📝 Thought Provoking Questions
 
 1. How many `cin` statements did you end up using in this program? Could you have gotten away with fewer `cin` statements? What are the tradeoffs of using more or fewer `cin` statements?
 2. Does it matter what order the user types their two resistance values into your program? For example, would I get the same answer if I first typed in $$10 \: \Omega$$ and then $$20 \: \Omega$$ versus $$20 \: \Omega$$ then $$10 \: \Omega$$? Why or why not?
@@ -77,7 +81,7 @@ Thank you for using the RCP!
 6. What would happen if the user typed in a negative value for a resistance? Note, you do not need to write any code to handle this case.
 7. What would happen if the user typed in zero for a resistance? Note, you do not need to write any code to handle this case.
 
-## Add-Ons For the Portfolio
+## 💼 Add-Ons For the Portfolio
 
 ### (One Credit) Algebraic Exploration
 
