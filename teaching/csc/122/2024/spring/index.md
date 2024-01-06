@@ -11,3 +11,4 @@ semester: Spring 2024
 | --- | --------- | -------- |
 | [You Want Me to Do What Problems?]({{ "/teaching/csc/labs/you-want-me-to-do-what-problems.html" | absolute_url }}) | 1 | January 21, 2024 |
 | [It's Raining Strings]({{ "/teaching/csc/labs/its-raining-strings.html" | absolute_url }}) | 1 | January 21, 2024 |
+| [Round 'em Up]({{ "/teaching/csc/labs/round-em-up.html" | absolute_url }}) | 2 | March 17, 2024 |

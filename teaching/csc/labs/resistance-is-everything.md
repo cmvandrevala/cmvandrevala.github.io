@@ -139,6 +139,6 @@ Thank you for using the RCP!
 
 Note: If you complete this challenge, you will automatically earn credit for "Multiple Prompts" as well!
 
-## Works Cited
+## 📘 Works Cited
 
 {% bibliography --cited %}

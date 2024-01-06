@@ -118,6 +118,6 @@ Please enter the assignment: M 1-4 evens, 5-9 odds, 10-12
 Do problems 2, 4, 5, 7, 9, 10, 11, and 12 of M.
 ```
 
-## Works Cited
+## 📘 Works Cited
 
 {% bibliography --cited %}

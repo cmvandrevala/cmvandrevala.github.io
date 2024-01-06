@@ -15,11 +15,11 @@ Allow a user to enter the names of any number of local businesses. When a user e
 
 ## ✅ Acceptance Criteria
 
-* THe program should print a welcome message when the user executes it.
+* The program should print a welcome message when the user executes it.
 * The user should be able to enter a business name that contains alphanumeric characters and special characters.
 * You are allowed to use methods from the standard library (e.g. `std::sort` or `std::vector`)
 * The user should be able to enter "y", "Y", "yes", or "Yes" to confirm that they want to enter another business name. Other inputs should exit the program gracefully.
-* THe program should print a goodbye message when the user exits.
+* The program should print a goodbye message when the user exits.
 
 ## 📋 Dev Notes
 
@@ -99,3 +99,7 @@ Thank you for using the Business Sorting Program!
 ### (One Credit) C-strings Versus String Class
 
 When completing this lab, you probably used c-strings or the C++ string class to store the business names. Refactor your code to use c-strings if you used the string class and vice versa. The output of the program should be identical to what you had before.
+
+## 📘 Works Cited
+
+{% bibliography --cited %}
