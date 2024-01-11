@@ -5,7 +5,13 @@ course_number: CSC 122
 semester: Spring 2024
 ---
 
-## Labs
+## Lecture Notes
+
+| Lecture Name | Week |
+|--------------|------|
+| [Chapter 2](https://github.com/cmvandrevala/csc_122_chapter_2)| 1 |
+
+## Lab Instructions
 
 | Lab | Portfolio | Due Date |
 | --- | --------- | -------- |
