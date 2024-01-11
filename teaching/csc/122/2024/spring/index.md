@@ -9,7 +9,7 @@ semester: Spring 2024
 
 | Lecture Name | Week |
 |--------------|------|
-| [Chapter 2](https://github.com/cmvandrevala/csc_122_arithmetic_and_conditionals)| 1 |
+| [Arithmetic and Conditionals](https://github.com/cmvandrevala/csc_122_arithmetic_and_conditionals)| 1 |
 
 ## Lab Instructions
 
