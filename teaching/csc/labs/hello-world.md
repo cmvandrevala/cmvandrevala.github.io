@@ -19,7 +19,15 @@ Write a program that prints "Hello World!" to the terminal and then exits gracef
 
 ## 📋 Dev Notes
 
-There are no dev notes for this problem.
+The goal of this assignment is to make sure that your dev setup is working properly. Some things that you might want to consider as you work through this include:
+
+* Do you have a working C++ compiler installed on your computer?
+* Is your compiler set to compile C++ 11 or above?
+* Is your text editor set up properly?
+* Are there any packages or plugins that you like to use to aid you in development?
+* Are there any static analysis tools that you like to use (e.g. Valgrind)?
+* Are there any useful sites / docs that you have bookmarked?
+* Is there a testing framework that you might want to use?
 
 ## 🖥️ Example Output
 
