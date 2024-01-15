@@ -4,12 +4,6 @@ title: Teaching
 description: This is a list of classes that I have taught along with resources for each of them.
 ---
 
-## Computer Information Systems
-
-| Course Number | Semester | Year |
-| ------------- | -------- | ---- |
-| CIS 143       | Spring   | 2024 |
-
 ## Computer Science
 
 | Course Number | Semester | Year |
