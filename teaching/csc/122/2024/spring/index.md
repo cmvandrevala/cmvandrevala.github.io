@@ -9,7 +9,7 @@ semester: Spring 2024
 
 | Lecture Name | Week |
 |--------------|------|
-| [Arithmetic and Conditionals](https://github.com/cmvandrevala/csc_122_arithmetic_and_conditionals)| 1 |
+| [Arithmatic and Conditionals](https://github.com/cmvandrevala/csc_122_arithmatic_and_conditionals)| 1 |
 | [Tic-Tac-Toe Board With Class](https://github.com/cmvandrevala/csc_122_tic_tac_toe_board_with_class) | 1 |
 
 ## Lab Instructions
