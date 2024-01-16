@@ -44,3 +44,7 @@ There are no thought provoking questions for this lab. The goal here is to get y
 ## 💼 Add-Ons For the Portfolio
 
 There are no add-ons available for this lab.
+
+## 📘 Works Cited
+
+There are no works cited for this lab.
