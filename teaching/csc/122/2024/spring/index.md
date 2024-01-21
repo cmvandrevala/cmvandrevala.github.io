@@ -5,6 +5,10 @@ course_number: CSC 122
 semester: Spring 2024
 ---
 
+## Useful Resources
+
+* [Lab Grading Rubric](./lab-grading-rubric.html)
+
 ## Lecture Notes
 
 | Lecture Name | Week |
