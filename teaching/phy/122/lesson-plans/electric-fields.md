@@ -44,3 +44,4 @@ title: Electric Fields
 ## 📘 Connected Resources
 
 * {% reference giambattistaCollegePhysicsIntegrated2020 %}
+* {% reference dubsonElectricFieldHockey %}
