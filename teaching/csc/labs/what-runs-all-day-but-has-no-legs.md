@@ -38,6 +38,26 @@ Create a `Timer` object that allows a user to start a timer, stop a timer, and r
 
 ## 🖥️ Example Output
 
+We might write a driver program called `timer.cpp` that tests the `Timer` class that we wrote using the algorithm above. The driver program might look something like:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+  Timer timer;
+  get_the_system_time();
+  timer.start()
+  wait_for_a_few_seconds();
+  timer.stop();
+  get_the_system_time();
+  compare_the_times();
+  return 0;
+}
+```
+
+Comparing the times might check that they are within some tolerance of each other.
+
 ## 📝 Thought Provoking Questions
 
 1. What should the behavior be if you try to start your timer twice? Should it start from zero again or continue where it left off? Notice how I did not specify this in the acceptance criteria - you need to make a judgement call here!
