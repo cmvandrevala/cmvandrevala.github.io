@@ -39,4 +39,5 @@ N/A
 
 ## 📘 Connected Resources
 
+* {% reference giambattistaCollegePhysicsIntegrated2020 %}
 * {% reference neroGaussLawArbitrary2017 %}
