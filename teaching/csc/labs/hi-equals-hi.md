@@ -24,6 +24,7 @@ string_1 > string_2 returns something greater than zero
 * Write a function called `strcmp_case_insensitive` that does a case-insensitive comparison of two strings.
 * Write a driver program to test your function with a variety of values. You should set up your driver function so that it tests all of the expected edge cases that might be encountered when using your function.
 * You are not allowed to use the library functions `strcasecmp` or `stricmp` since they are not standard or portable.
+* You are not allowed to use the C function `strcmpi`.
 * The original strings should not be altered at all. Specifically, you cannot change the two string arguments before or during the call. Do not make copies and change the copies. All of this is terribly wasteful and / or destructive of data.
 
 ## 📋 Dev Notes
