@@ -17,6 +17,7 @@ semester: Spring 2024
 | [Arithmatic and Conditionals](https://github.com/cmvandrevala/csc_122_arithmatic_and_conditionals)| 1 |
 | [Tic-Tac-Toe Board With Class](https://github.com/cmvandrevala/csc_122_tic_tac_toe_board_with_class) | 1 |
 | [Fizz Buzz](https://github.com/cmvandrevala/csc_122_fizzbuzz) | 2 |
+| [Pet Grooming](https://github.com/cmvandrevala/csc_122_pet_grooming) | 2 |
 
 ## Lab Instructions
 
