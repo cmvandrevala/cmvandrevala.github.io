@@ -28,6 +28,7 @@ semester: Spring 2024
 | [Now Where Did I Put That?]({{ "/teaching/csc/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 | January 21, 2024 | N/A |
 | ["Hi" == "hi"?]({{ "/teaching/csc/labs/hi-equals-hi.html" | absolute_url }}) | 1 | January 28, 2024 | N/A |
 | [What Runs All Day But Has No Legs?]({{ "/teaching/csc/labs/what-runs-all-day-but-has-no-legs.html" | absolute_url }}) | 1 | January 28, 2024 | N/A|
+| [What a Complex Problem]({{ "/teaching/csc/labs/what-a-complex-problem.html" | absolute_url }}) | 1 | January 28, 2024 | N/A|
 | [You Want Me to Do What Problems?]({{ "/teaching/csc/labs/you-want-me-to-do-what-problems.html" | absolute_url }}) | 3 | February 4, 2024 ||
 | [It's Raining Strings]({{ "/teaching/csc/labs/its-raining-strings.html" | absolute_url }}) | 3 | February 4, 2024 ||
 | [Round 'em Up]({{ "/teaching/csc/labs/round-em-up.html" | absolute_url }}) | 9 | March 17, 2024 ||
