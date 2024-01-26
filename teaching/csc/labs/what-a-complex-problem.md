@@ -111,10 +111,9 @@ cout << list.sum(); // Returns 17.5 + 24.1i
 ## 📝 Thought Provoking Questions
 
 1. Does it make sense to default any of the arguments in the constructor of `ComplexNumber` to a particular value? Why or why not?
-2. What might summing two `ComplexNumber` objects look like if you are using a class method for `sum`?
-3. What are the types of values that are returned from each method in `ComplexNumber`?
-4. What happens if you try to initialize your `ComplexNumber` class with an integer instead of a float?
-5. Does `pretty_print()` print anything besides the number in "a + bi" form (even an `endl`)? Why or why not?
+2. What are the types of values that are returned from each method in `ComplexNumber`?
+3. What happens if you try to initialize your `ComplexNumber` class with an integer instead of a float?
+4. Does `pretty_print()` print anything besides the number in "a + bi" form (even an `endl`)? Why or why not?
 
 ## 💼 Add-Ons For the Portfolio
 
