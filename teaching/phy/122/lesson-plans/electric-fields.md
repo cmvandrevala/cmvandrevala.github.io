@@ -24,6 +24,10 @@ title: Electric Fields
 * Torque on an electric dipole in an electric field
 * Electric field, electric force, and kinematics
 
+## 🖥️ Animations, Simulations, Activities
+
+N/A
+
 ## 📝 Practice Problems
 
 1. What is the difference between an electric field and an electric force?

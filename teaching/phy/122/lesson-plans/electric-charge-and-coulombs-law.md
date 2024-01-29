@@ -29,6 +29,10 @@ title: Electric Charge and Coulomb's Law
   * Induction
 * Coulomb's law
 
+## 🖥️ Animations, Simulations, Activities
+
+N/A
+
 ## 📝 Practice Problems
 
 1. Two point charges, each with a charge of +1.5 mC are separated by a distance of 5.75 m. What is the magnitude of the electric force between the point charges? Do they attract or repel each other?

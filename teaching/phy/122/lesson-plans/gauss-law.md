@@ -29,9 +29,13 @@ title: Gauss' Law
 * Gauss' law
   * Point charge
 
-## 📝 Practice Problems
+## 🖥️ Animations, Simulations, Activities
 
 We are going to be playing around with a simulation and answering a few questions. The link to the simulation is [here](https://www.geogebra.org/m/r7Ue9Nac).
+
+## 📝 Practice Problems
+
+N/A
 
 ## ✅ Partial Solutions
 

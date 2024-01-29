@@ -26,6 +26,10 @@ title: Electric Potential Energy
 * We didn't do too much with gravitational potential energy in PHY 121, but $$U = - \frac{GMm}{r}$$
 * We can use conservation of energy, just like in PHY 121 (see practice problems below)
 
+## 🖥️ Animations, Simulations, Activities
+
+N/A
+
 ## 📝 Practice Problems
 
 1. A positive charge (Q = +5.0 $$\mu C$$) is fixed in place at the origin. Another positive charge (q = +1.0 $$\mu C$$ and m = 2.0 kg) is free to move and starts at rest at the point (1.0 m, 0.0 m). What is the speed of q when it is at the point (5.0 m, 0.0 m)? What about when it is infinitely far away from Q?

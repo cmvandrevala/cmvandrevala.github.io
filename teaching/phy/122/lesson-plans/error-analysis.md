@@ -38,6 +38,10 @@ Image courtesy of {% cite ErrorsMeasurementMeasurement %}.
   * Mainly affect accuracy, not precision
   * Can be difficult to spot
 
+## 🖥️ Animations, Simulations, Activities
+
+N/A
+
 ## 📝 Practice Problems
 
 We will have an in-class discussion about different types of errors in the lab today. No practice problems for this lesson!

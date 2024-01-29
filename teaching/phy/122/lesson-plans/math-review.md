@@ -41,6 +41,10 @@ title: Math Review
   * Scalar fields
   * Vector fields
 
+## 🖥️ Animations, Simulations, Activities
+
+* [Addition of Vectors](https://www.tychos.org/en/scenarios/uFt2zL)
+
 ## 📝 Practice Problems
 
 ### Vectors Practice
