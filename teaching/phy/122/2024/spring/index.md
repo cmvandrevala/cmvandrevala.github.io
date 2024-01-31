@@ -17,6 +17,7 @@ semester: Spring 2024
 | [Electric Potential Energy]({{ "/teaching/phy/122/lesson-plans/electric-potential-energy.html" | absolute_url }}) | January 25, 2024 |
 | [Error Analysis]({{ "/teaching/phy/122/lesson-plans/error-analysis.html" | absolute_url }}) | January 29, 2024 |
 | [Electric Potential]({{ "/teaching/phy/122/lesson-plans/electric-potential.html" | absolute_url }}) | January 30, 2024 |
+| [Capacitors and Dielectrics]({{ "/teaching/phy/122/lesson-plans/capacitors-and-dielectrics.html" | absolute_url }}) | January 31, 2024 |
 
 ## Past Exams
 
