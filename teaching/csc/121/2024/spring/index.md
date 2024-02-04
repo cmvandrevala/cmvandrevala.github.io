@@ -9,4 +9,6 @@ semester: Spring 2024
 
 | Lab | Portfolio | Due Date |
 | --- | --------- | -------- |
+| [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) | N/A | N/A |
 | [Resistance is Everything]({{ "/teaching/csc/labs/resistance-is-everything.html" | absolute_url }}) | 1 | February 18, 2024 |
+| [A Terribly Weighty Subject]({{ "/teaching/csc/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | February 18, 2024 |

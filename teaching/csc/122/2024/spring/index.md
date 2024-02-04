@@ -24,7 +24,6 @@ semester: Spring 2024
 
 | Lab | Portfolio | Due Date |
 | --- | --------- | -------- |
-| Introduction to GitHub and Git | N/A | N/A |
 | [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) | N/A | N/A |
 | [Oops! Shall We Try Again?]({{ "/teaching/csc/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 | January 21, 2024 |
 | [Now Where Did I Put That?]({{ "/teaching/csc/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 | January 21, 2024 |
