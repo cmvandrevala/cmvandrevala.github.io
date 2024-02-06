@@ -19,6 +19,7 @@ semester: Spring 2024
 | [Electric Potential]({{ "/teaching/phy/122/lesson-plans/electric-potential.html" | absolute_url }}) | January 30, 2024 |
 | [Capacitors and Dielectrics]({{ "/teaching/phy/122/lesson-plans/capacitors-and-dielectrics.html" | absolute_url }}) | January 31, 2024 |
 | [Capacitors in Circuits]({{ "/teaching/phy/122/lesson-plans/capacitors-in-circuits.html" | absolute_url }}) | February 1, 2024 |
+| [Resistors in Circuits]({{ "/teaching/phy/122/lesson-plans/resistors-in-circuits.html" | absolute_url }}) | February 6 - 7, 2024 |
 
 ## Past Exams
 
