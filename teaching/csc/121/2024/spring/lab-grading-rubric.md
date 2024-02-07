@@ -1,16 +1,15 @@
 ---
 layout: course
 title: Lab Grading Rubric
-course_number: CSC 122
+course_number: CSC 121
 semester: Spring 2024
 ---
 
-The rubric for how I grade labs is presented below. Each lab is worth 50 points, with the grade broken down into five categories. Most labs follow this structure very nicely, but there will be occasional labs that do not (e.g. the [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) lab). For those, I will adjust the rubric on a case-by-case basis.
+The rubric for how I grade labs is presented below. Each lab is worth 50 points, with the grade broken down into four categories. Most labs follow this structure very nicely, but there will be occasional labs that do not (e.g. the [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) lab). For those, I will adjust the rubric on a case-by-case basis.
 
 | Grading Item | Points | Percent |
 | ---- | ---- | ---- |
-| Code Passes All Acceptance Criteria (Instructor Specs) | 15 | 30% |
-| Code is Well Tested (ZOMBIES) | 15 | 30% |
+| Code Passes All Acceptance Criteria (Instructor Specs) | 30 | 60% |
 | Answers to Thought-Provoking Questions | 10 | 20% |
 | Assignment-Specific Requirements | 5 | 10% |
 | Clean and Organized Code | 5 | 10% |
@@ -22,22 +21,10 @@ When I grade the lab assignments, I test your code via a combination of automate
 | Earned | Description |
 |--------|-------------|
 | 0 | The code does not compile, run, or pass any of my tests / checks from above. |
-| 1 - 5 | The code compiles and runs, but it has substantial problems. It does not pass the majority of the automated tests, manual checks, and code review. |
-| 6 - 9 | The code compiles, runs, and passes more than half of the automated tests, manual checks, and code review. |
-| 10 - 14 | The code compiles, runs, and passes most of the automated tests, manual checks, and code review with minor issues. |
-| 15 | The code compiles, runs, and passes all of the automated tests, manual checks, and code review with no issues. |
-
-## Code is Well Tested (ZOMBIES)
-
-You are expected to thoroughly test your code for each assignment. There are a variety of strategies we might use, including `assert` statements, driver programs, and testing frameworks.
-
-| Earned | Description |
-|--------|-------------|
-| 0 | The code is not tested, the program does not compile, or the tests do not run. |
-| 1 - 5 | The code has a test suite or driver function, but there are many glaring holes in the tests. Alternatively, the tests are largely manual rather than automated. |
-| 6 - 9 | The code has an automated test suite that covers many of the cases outlined by the ZOMBIES acronym. |
-| 10 - 14 | The code has an automated test suite that covers most of the cases outlined by the ZOMBIES acronym. |
-| 15 | The code has an automated test suite that covers all of the cases outlined by the ZOMBIES acronym. |
+| 1 - 10 | The code compiles and runs, but it has substantial problems. It does not pass the majority of the automated tests, manual checks, and code review. |
+| 11 - 20 | The code compiles, runs, and passes more than half of the automated tests, manual checks, and code review. |
+| 21 - 29 | The code compiles, runs, and passes most of the automated tests, manual checks, and code review with minor issues. |
+| 30 | The code compiles, runs, and passes all of the automated tests, manual checks, and code review with no issues. |
 
 ## Answers to Thought-Provoking Questions
 

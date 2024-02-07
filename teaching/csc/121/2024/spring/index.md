@@ -5,6 +5,10 @@ course_number: CSC 121
 semester: Spring 2024
 ---
 
+## Useful Resources
+
+* [Lab Grading Rubric](./lab-grading-rubric.html)
+
 ## Labs
 
 | Lab | Portfolio | Due Date |
