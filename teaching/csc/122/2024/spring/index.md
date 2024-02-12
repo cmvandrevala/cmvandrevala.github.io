@@ -33,3 +33,9 @@ semester: Spring 2024
 | [You Want Me to Do What Problems?]({{ "/teaching/csc/labs/you-want-me-to-do-what-problems.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [It's Raining Strings]({{ "/teaching/csc/labs/its-raining-strings.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [Well, That's Just Prime]({{ "/teaching/csc/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | February 4, 2024 |
+
+## Portfolio Assignments
+
+| Name | Portfolio |
+| --- | --------- |
+| [Tic-Tac-Toe (Part 1)]({{ "/teaching/csc/portfolios/tic-tac-toe-part-1.html" | absolute_url }}) | 1 |
