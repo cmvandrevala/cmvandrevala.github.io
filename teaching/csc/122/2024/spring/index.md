@@ -19,6 +19,8 @@ semester: Spring 2024
 | [Fizz Buzz](https://github.com/cmvandrevala/csc_122_fizzbuzz) | 2 |
 | [Pet Grooming](https://github.com/cmvandrevala/csc_122_pet_grooming) | 2 |
 | [Types of Recursion](https://github.com/cmvandrevala/csc_122_types_of_recursion) | 3 |
+| [Dynamic Memory Allocation Slides]({{ "/assets/pdfs/dynamic_memory_allocation.pdf" | absolute_url }}) | 5 |
+| [Dynamic Memory Allocation Code](https://github.com/cmvandrevala/csc_122_dynamic_memory_allocation) | 5 |
 
 ## Lab Instructions
 
