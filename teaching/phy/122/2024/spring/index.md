@@ -21,7 +21,8 @@ semester: Spring 2024
 | [Capacitors in Circuits]({{ "/teaching/phy/122/lesson-plans/capacitors-in-circuits.html" | absolute_url }}) | February 1, 2024 |
 | [Resistors in Circuits]({{ "/teaching/phy/122/lesson-plans/resistors-in-circuits.html" | absolute_url }}) | February 6 - 7, 2024 |
 | [Kirchhoff's Rules]({{ "/teaching/phy/122/lesson-plans/kirchhoffs-rules.html" | absolute_url }}) | February 8, 2024 |
-| [RC Circuits]({{ "/teaching/phy/122/lesson-plans/rc-circuits.html" | absolute_url }}) | February 13, 2024 |
+| [RC Circuits]({{ "/teaching/phy/122/lesson-plans/rc-circuits.html" | absolute_url }}) | February 13 - 14, 2024 |
+| [Introduction to Magnetism]({{ "/teaching/phy/122/lesson-plans/introduction-to-magnetism.html" | absolute_url }}) | February 15, 2024 |
 
 ## Past Exams
 
