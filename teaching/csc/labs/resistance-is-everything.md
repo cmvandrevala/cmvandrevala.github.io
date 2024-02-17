@@ -46,7 +46,7 @@ Given a user's input of two resistances, calculate the equivalent resistance of 
 ## ✅ Acceptance Criteria
 
 * When I execute the program, I should see a welcome prompt.
-* Then, the program should ask me to enter two values for resistances, separated by a space.
+* Then, the program should ask me to enter two values for resistances. The way that you take this input is up to you - they can be separated by a space or the user might be prompted multiple times for inputs.
 * After I give my input, the program should repeat the two values that I provided in a sentence.
 * Then, the program should print out the equivalent resistance of the two resistors in series and in parallel.
 * Finally, I should see an exit message as the program gracefully exits.
