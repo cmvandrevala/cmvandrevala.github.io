@@ -23,6 +23,7 @@ semester: Spring 2024
 | [Kirchhoff's Rules]({{ "/teaching/phy/122/lesson-plans/kirchhoffs-rules.html" | absolute_url }}) | February 8, 2024 |
 | [RC Circuits]({{ "/teaching/phy/122/lesson-plans/rc-circuits.html" | absolute_url }}) | February 13 - 14, 2024 |
 | [Introduction to Magnetism]({{ "/teaching/phy/122/lesson-plans/introduction-to-magnetism.html" | absolute_url }}) | February 15, 2024 |
+| [Applications of Magnetic Force on a Point Charge]({{ "/teaching/phy/122/lesson-plans/applications-of-magnetic-force-on-a-point-charge.html" | absolute_url }}) | February 20, 2024 |
 
 ## Past Exams
 
