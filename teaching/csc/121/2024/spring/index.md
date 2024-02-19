@@ -15,4 +15,5 @@ semester: Spring 2024
 | --- | --------- | -------- |
 | [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) | N/A | N/A |
 | [Resistance is Everything]({{ "/teaching/csc/labs/resistance-is-everything.html" | absolute_url }}) | 1 | February 18, 2024 |
-| [A Terribly Weighty Subject]({{ "/teaching/csc/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | February 18, 2024 |
+| [A Terribly Weighty Subject]({{ "/teaching/csc/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | February 25, 2024 |
+| [Point to Point]({{ "/teaching/csc/labs/point-to-point.html" | absolute_url }}) | 1 | February 25, 2024 |
