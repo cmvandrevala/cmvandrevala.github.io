@@ -24,7 +24,7 @@ Given a user's input of some number of ounces, convert their input to units of p
 
 ## 📋 Dev Notes
 
-There are no dev notes for this problem.
+* You can assume that the user always types in a whole number of ounces. They will never type in a decimal number of ounces. That being said, the final number of pounds might be a decimal number.
 
 ## 🖥️ Example Output
 
