@@ -36,6 +36,7 @@ semester: Spring 2024
 | [It's Raining Strings]({{ "/teaching/csc/labs/its-raining-strings.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [Well, That's Just Prime]({{ "/teaching/csc/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [Growing Pains]({{ "/teaching/csc/labs/growing-pains.html" | absolute_url }}) | 2 | February 25, 2024 |
+| [Meet in the Middle]({{ "/teaching/csc/labs/meet-in-the-middle.html" | absolute_url }}) | 2 | February 25, 2024 |
 
 ## Portfolio Assignments
 
