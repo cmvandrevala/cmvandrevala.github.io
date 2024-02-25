@@ -33,7 +33,7 @@ Write a program that calculates the midpoint of a line segment in the 2D Cartesi
 
 ## 📋 Dev Notes
 
-* You do not need to handle random inputs from the user in your code. However, there is one thought-provoking question where I ask you what sorts of erroneous inputs you might expect to encounter from a user.
+You do not need to handle random inputs from the user in your code. However, there is one thought-provoking question where I ask you what sorts of erroneous inputs you might expect to encounter from a user.
 
 ## 🖥️ Example Output
 
