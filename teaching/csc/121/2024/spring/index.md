@@ -18,3 +18,4 @@ semester: Spring 2024
 | [A Terribly Weighty Subject]({{ "/teaching/csc/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | February 25, 2024 |
 | [Point to Point]({{ "/teaching/csc/labs/point-to-point.html" | absolute_url }}) | 1 | February 25, 2024 |
 | [From Here to There]({{ "/teaching/csc/labs/from-here-to-there.html" | absolute_url }}) | 1 | March 3, 2024 |
+| [Monograms Are Us]({{ "/teaching/csc/labs/monograms-are-us.html" | absolute_url }}) | 1 | March 3, 2024 |
