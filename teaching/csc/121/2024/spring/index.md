@@ -8,6 +8,7 @@ semester: Spring 2024
 ## Useful Resources
 
 * [Lab Grading Rubric](./lab-grading-rubric.html)
+* [Portfolios](./portfolios.html)
 
 ## Labs
 
