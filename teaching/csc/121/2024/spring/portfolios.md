@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Portfolios
-course_number: CSC 122
+course_number: CSC 121
 semester: Spring 2024
 ---
 
