@@ -21,7 +21,7 @@ Design and code a class to represent a grocery counter. Your counter should b
 
 ## ✅ Acceptance Criteria
 
-* Implement a class called `GroceryCounter` with the methods: `hundreds()`, `tens()`, `tenths()`, and `hundreths()`. Each of these methods should increment the corresponding digit of the counter, as described in the  Background Information section.
+* Implement a class called `GroceryCounter` with the methods: `tens()`, `ones()`, `tenths()`, and `hundreths()`. Each of these methods should increment the corresponding digit of the counter, as described in the  Background Information section.
 * The counter should be initialized with a default value of 0000.
 * The counter should have a method called `total()` that shows the current monetary amount in a nicely formatted fashion. For example, 1234 displays as `$12.34` and 0509 displays as `$5.09`.
 * The counter should have a method called `number_of_overflows()` which returns the number of times a user has overflowed the counter.
@@ -83,7 +83,7 @@ Update the constructor for the `GroceryCounter` class to take in a customized ma
 
 ### (Two Credits) Decrement Values
 
-Update the `GroceryCounter` class with four new methods: `decrement_hundreds()`, `decrement_tens()`, `decrement_tenths()`, and `decrement_hundreths()`. These four methods should decrement the associated digit by one. Be sure to correctly handle the edge cases where a number is decremented from one to zero.
+Update the `GroceryCounter` class with four new methods: `decrement_tens()`, `decrement_ones()`, `decrement_tenths()`, and `decrement_hundreths()`. These four methods should decrement the associated digit by one. Be sure to correctly handle the edge cases where a number is decremented from one to zero.
 
 ## 📘 Works Cited
 
