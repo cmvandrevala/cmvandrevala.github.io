@@ -22,3 +22,4 @@ semester: Spring 2024
 | [Monograms Are Us]({{ "/teaching/csc/labs/monograms-are-us.html" | absolute_url }}) | 1 | March 3, 2024 |
 | [To Meet or Not to Meet]({{ "/teaching/csc/labs/to-meet-or-not-to-meet.html" | absolute_url }}) | 1 | March 3, 2024 |
 | [Payroll]({{ "/teaching/csc/labs/payroll.html" | absolute_url }}) | 1 | March 3, 2024 |
+| [Rolling Along]({{ "/teaching/csc/labs/rolling-along.html" | absolute_url }}) | 1 | March 10, 2024 |
