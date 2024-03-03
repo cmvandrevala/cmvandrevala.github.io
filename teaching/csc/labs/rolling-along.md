@@ -169,7 +169,7 @@ Thank you for using the DSP!
 
 You need to complete "A More Natural UI" before you can do this add-on.
 
-Sometimes, a player wants to roll combinations of different types of dice. For example, I might want to roll 3d6 + 2d8 + 1d4. This would mean that I want to roll three six-sided die, two eight-sided die, and one four sided dice and add up all of the faces.
+Sometimes, a player wants to roll combinations of different types of dice. For example, I might want to roll 3d6 + 2d8 + 1d4. This would mean that I want to roll three six-sided die, two eight-sided die, and one four sided die and add up all of the faces.
 
 The statistics for combinations of dice rolls are a bit more complicated then just a single group of dice, so we will gloss over them for now. You only need to return the maximum and minimum values that the roll can take (no need to include the average).
 
@@ -210,6 +210,8 @@ You rolled a 34!
 
 Thank you for using the DSP!
 ```
+
+Remember! I don't want you to return a random value between the maximum and minimum values. That corresponds to a uniform distribution of results. Instead, I want you to actually make the dice rolls using a random number generator and add up all of the individual roll results.
 
 ## 📘 Works Cited
 
