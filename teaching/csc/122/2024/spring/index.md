@@ -40,6 +40,7 @@ semester: Spring 2024
 | [Meet in the Middle]({{ "/teaching/csc/labs/meet-in-the-middle.html" | absolute_url }}) | 2 | February 25, 2024 |
 | [Count'em Up]({{ "/teaching/csc/labs/count-em-up.html" | absolute_url }}) | 2 | March 3, 2024 |
 | [You Get an A]({{ "/teaching/csc/labs/you-get-an-a.html" | absolute_url }}) | 2 | March 3, 2024 |
+| [I Get the Point]({{ "/teaching/csc/labs/i-get-the-point.html" | absolute_url }}) | 2 | March 10, 2024 |
 
 ## Portfolio Assignments
 
