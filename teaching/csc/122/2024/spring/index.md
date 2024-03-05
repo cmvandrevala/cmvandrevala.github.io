@@ -22,6 +22,7 @@ semester: Spring 2024
 | [Dynamic Memory Allocation Slides]({{ "/assets/pdfs/dynamic_memory_allocation.pdf" | absolute_url }}) | 5 |
 | [Dynamic Memory Allocation Code](https://github.com/cmvandrevala/csc_122_dynamic_memory_allocation) | 5 |
 | [Pet Grooming With Polymorphism](https://github.com/cmvandrevala/csc_122_pet_grooming_with_polymorphism) | 7 |
+| [Operator Overloading](https://github.com/cmvandrevala/csc_122_operator_overloading) | 8 |
 
 ## Lab Instructions
 
