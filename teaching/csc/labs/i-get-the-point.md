@@ -69,12 +69,13 @@ Overload `operator*` to multiply the point by a constant. For instance:
 ```cpp
 Point p = Point(3.2, 9.8);
 cout << p * 2 << endl;   // This should print out (6.4, 19.6)
+cout << p * 2.0 << endl;   // This should print out (6.4, 19.6)
 cout << p * -3 << endl;   // This should print out (-9.6, -29.4)
 ```
 
-Update your unit tests and / or driver program to test this new functionality.
+A user should be able to multiply the point by an integer, a float, or a double. Update your unit tests and / or driver program to test this new functionality.
 
-### (Two Credits) Array Indexing
+### (Three Credits) Array Indexing
 
 Overload `operator[]` to return the x or y part of the point. For instance:
 
