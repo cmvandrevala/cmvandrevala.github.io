@@ -87,7 +87,7 @@ Thank you for using the Monogram Program!
 
 You do not need to validate random inputs - you can always assume that the user will provide a valid input for the option of spaces versus periods.
 
-## (Two Credits) Validate Initials
+### (Two Credits) Validate Initials
 
 Sometimes, a user might mess up and enter two characters instead of one for one of their initials. Update your program to check the inputs provided by the users. If the input is a single character, proceed with the program as before. However, if the input is two or more characters, display a helpful error message and gracefully exit the program. Your output might looks something like this:
 
