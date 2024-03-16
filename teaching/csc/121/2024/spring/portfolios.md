@@ -25,9 +25,9 @@ You can earn back up to half of the lost points on a problem.
 
 ### Portfolio Add-Ons
 
-At the bottom of each problem given in lab is a set of add-ons for the portfolio, each with a "credit" value. You are expected to complete twenty credits worth of add-ons for the portfolio. Do not start the problem over from scratch. Instead, make additions / changes to your original code and submit them as part of your portfolio.
+At the bottom of each problem given in lab is a set of add-ons for the portfolio, each with a "credit" value. You are expected to complete 16 credits worth of add-ons for the portfolio. Do not start the problem over from scratch. Instead, make additions / changes to your original code and submit them as part of your portfolio.
 
-Each add-on to a lab is given a credit score to indicate approximately how difficult it is. Roughly speaking, one credit is easy, two credits is moderate, and three or more credits is difficult. It is your choice which problems / credits you want to complete (e.g. you can do twenty "one-credit" add-ons, ten "two-credit" add-ons, or any combination that adds up to twenty).
+Each add-on to a lab is given a credit score to indicate approximately how difficult it is. Roughly speaking, one credit is easy, two credits is moderate, and three or more credits is difficult. It is your choice which problems / credits you want to complete (e.g. you can do 16 "one-credit" add-ons, ten "two-credit" add-ons, or any combination that adds up to 16).
 
 It is highly recommended that if you decide to do portfolio add-ons for a given problem, you first do lab corrections for that problem (if applicable). Trying to add code onto an existing, incorrect solution is likely to result in more incorrect work.
 
