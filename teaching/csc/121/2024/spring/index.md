@@ -24,3 +24,4 @@ semester: Spring 2024
 | [Payroll]({{ "/teaching/csc/labs/payroll.html" | absolute_url }}) | 1 | March 3, 2024 |
 | [Rolling Along]({{ "/teaching/csc/labs/rolling-along.html" | absolute_url }}) | 1 | March 10, 2024 |
 | [Out in the Middle of Space]({{ "/teaching/csc/labs/out-in-the-middle-of-space.html" | absolute_url }}) | 2 | March 24, 2024 |
+| [Times Are Changing]({{ "/teaching/csc/labs/times-are-changing.html" | absolute_url }}) | 2 | March 24, 2024 |
