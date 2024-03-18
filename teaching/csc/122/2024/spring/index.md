@@ -49,3 +49,4 @@ semester: Spring 2024
 | Name | Portfolio |
 | --- | --------- |
 | [Tic-Tac-Toe (Part 1)]({{ "/teaching/csc/portfolios/tic-tac-toe-part-1.html" | absolute_url }}) | 1 |
+| [Tic-Tac-Toe (Part 2)]({{ "/teaching/csc/portfolios/tic-tac-toe-part-2.html" | absolute_url }}) | 2 |
