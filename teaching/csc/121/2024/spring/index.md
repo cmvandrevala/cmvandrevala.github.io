@@ -23,5 +23,6 @@ semester: Spring 2024
 | [To Meet or Not to Meet]({{ "/teaching/csc/labs/to-meet-or-not-to-meet.html" | absolute_url }}) | 1 | March 3, 2024 |
 | [Payroll]({{ "/teaching/csc/labs/payroll.html" | absolute_url }}) | 1 | March 3, 2024 |
 | [Rolling Along]({{ "/teaching/csc/labs/rolling-along.html" | absolute_url }}) | 1 | March 10, 2024 |
+| [After a String Argument, I End Up in Knots]({{ "/teaching/csc/labs/after-a-string-argument-i-end-up-in-knots.html" | absolute_url }}) | 2 | March 24, 2024 |
 | [Out in the Middle of Space]({{ "/teaching/csc/labs/out-in-the-middle-of-space.html" | absolute_url }}) | 2 | March 24, 2024 |
 | [Times Are Changing]({{ "/teaching/csc/labs/times-are-changing.html" | absolute_url }}) | 2 | March 24, 2024 |
