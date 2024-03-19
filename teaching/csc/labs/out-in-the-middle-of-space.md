@@ -36,7 +36,7 @@ $$
 You can convert from spherical coordinates to Cartesian coordindates using the following formulas:
 
 $$
-x = r sin \theta cos \phi
+x = r cos \theta sin \phi
 $$
 
 $$
@@ -44,7 +44,7 @@ y = r sin \theta sin \phi
 $$
 
 $$
-z = r cos \theta
+z = r cos \phi
 $$
 
 ## 🎯 Problem Statement
