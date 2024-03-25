@@ -45,6 +45,7 @@ semester: Spring 2024
 | [I Get the Point]({{ "/teaching/csc/labs/i-get-the-point.html" | absolute_url }}) | 2 | March 10, 2024 |
 | [Go With the Flow]({{ "/teaching/csc/labs/go-with-the-flow.html" | absolute_url }}) | 3 | March 17, 2024 |
 | [A Simple Todo List]({{ "/teaching/csc/labs/a-simple-todo-list.html" | absolute_url }}) | 3 | April 7, 2024 |
+| [A Functional Use for Lambdas]({{ "/teaching/csc/labs/a-functional-use-for-lambdas.html" | absolute_url }}) | 3 | April 14, 2024 |
 
 ## Portfolio Assignments
 
