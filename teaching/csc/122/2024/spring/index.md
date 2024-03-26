@@ -29,14 +29,14 @@ semester: Spring 2024
 
 | Lab | Portfolio | Due Date |
 | --- | --------- | -------- |
-| [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) | N/A | N/A |
+| [Hello World!]({{ "/teaching/csc/shared-labs/hello-world.html" | absolute_url }}) | N/A | N/A |
 | [Oops! Shall We Try Again?]({{ "/teaching/csc/122/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 | January 21, 2024 |
 | [Now Where Did I Put That?]({{ "/teaching/csc/122/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 | January 21, 2024 |
 | ["Hi" == "hi"?]({{ "/teaching/csc/122/labs/hi-equals-hi.html" | absolute_url }}) | 1 | January 28, 2024 |
 | [What Runs All Day But Has No Legs?]({{ "/teaching/csc/122/labs/what-runs-all-day-but-has-no-legs.html" | absolute_url }}) | 1 | January 28, 2024 |
-| [What a Complex Problem]({{ "/teaching/csc/labs/what-a-complex-problem.html" | absolute_url }}) | 1 | January 28, 2024 |
+| [What a Complex Problem]({{ "/teaching/csc/122/labs/what-a-complex-problem.html" | absolute_url }}) | 1 | January 28, 2024 |
 | [You Want Me to Do What Problems?]({{ "/teaching/csc/122/labs/you-want-me-to-do-what-problems.html" | absolute_url }}) | 1 | February 4, 2024 |
-| [It's Raining Strings]({{ "/teaching/csc/labs/its-raining-strings.html" | absolute_url }}) | 1 | February 4, 2024 |
+| [It's Raining Strings]({{ "/teaching/csc/shared-labs/its-raining-strings.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [Well, That's Just Prime]({{ "/teaching/csc/122/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [Growing Pains]({{ "/teaching/csc/122/labs/growing-pains.html" | absolute_url }}) | 2 | February 25, 2024 |
 | [Meet in the Middle]({{ "/teaching/csc/122/labs/meet-in-the-middle.html" | absolute_url }}) | 2 | February 25, 2024 |
