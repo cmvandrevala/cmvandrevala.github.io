@@ -30,22 +30,22 @@ semester: Spring 2024
 | Lab | Portfolio | Due Date |
 | --- | --------- | -------- |
 | [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) | N/A | N/A |
-| [Oops! Shall We Try Again?]({{ "/teaching/csc/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 | January 21, 2024 |
-| [Now Where Did I Put That?]({{ "/teaching/csc/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 | January 21, 2024 |
-| ["Hi" == "hi"?]({{ "/teaching/csc/labs/hi-equals-hi.html" | absolute_url }}) | 1 | January 28, 2024 |
-| [What Runs All Day But Has No Legs?]({{ "/teaching/csc/labs/what-runs-all-day-but-has-no-legs.html" | absolute_url }}) | 1 | January 28, 2024 |
+| [Oops! Shall We Try Again?]({{ "/teaching/csc/122/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 | January 21, 2024 |
+| [Now Where Did I Put That?]({{ "/teaching/csc/122/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 | January 21, 2024 |
+| ["Hi" == "hi"?]({{ "/teaching/csc/122/labs/hi-equals-hi.html" | absolute_url }}) | 1 | January 28, 2024 |
+| [What Runs All Day But Has No Legs?]({{ "/teaching/csc/122/labs/what-runs-all-day-but-has-no-legs.html" | absolute_url }}) | 1 | January 28, 2024 |
 | [What a Complex Problem]({{ "/teaching/csc/labs/what-a-complex-problem.html" | absolute_url }}) | 1 | January 28, 2024 |
-| [You Want Me to Do What Problems?]({{ "/teaching/csc/labs/you-want-me-to-do-what-problems.html" | absolute_url }}) | 1 | February 4, 2024 |
+| [You Want Me to Do What Problems?]({{ "/teaching/csc/122/labs/you-want-me-to-do-what-problems.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [It's Raining Strings]({{ "/teaching/csc/labs/its-raining-strings.html" | absolute_url }}) | 1 | February 4, 2024 |
-| [Well, That's Just Prime]({{ "/teaching/csc/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | February 4, 2024 |
-| [Growing Pains]({{ "/teaching/csc/labs/growing-pains.html" | absolute_url }}) | 2 | February 25, 2024 |
-| [Meet in the Middle]({{ "/teaching/csc/labs/meet-in-the-middle.html" | absolute_url }}) | 2 | February 25, 2024 |
+| [Well, That's Just Prime]({{ "/teaching/csc/122/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | February 4, 2024 |
+| [Growing Pains]({{ "/teaching/csc/122/labs/growing-pains.html" | absolute_url }}) | 2 | February 25, 2024 |
+| [Meet in the Middle]({{ "/teaching/csc/122/labs/meet-in-the-middle.html" | absolute_url }}) | 2 | February 25, 2024 |
 | [Count'em Up]({{ "/teaching/csc/122/labs/count-em-up.html" | absolute_url }}) | 2 | March 3, 2024 |
-| [You Get an A]({{ "/teaching/csc/labs/you-get-an-a.html" | absolute_url }}) | 2 | March 3, 2024 |
-| [I Get the Point]({{ "/teaching/csc/labs/i-get-the-point.html" | absolute_url }}) | 2 | March 10, 2024 |
-| [Go With the Flow]({{ "/teaching/csc/labs/go-with-the-flow.html" | absolute_url }}) | 3 | March 17, 2024 |
-| [A Simple Todo List]({{ "/teaching/csc/labs/a-simple-todo-list.html" | absolute_url }}) | 3 | April 7, 2024 |
-| [A Functional Use for Lambdas]({{ "/teaching/csc/labs/a-functional-use-for-lambdas.html" | absolute_url }}) | 3 | April 14, 2024 |
+| [You Get an A]({{ "/teaching/csc/122/labs/you-get-an-a.html" | absolute_url }}) | 2 | March 3, 2024 |
+| [I Get the Point]({{ "/teaching/csc/122/labs/i-get-the-point.html" | absolute_url }}) | 2 | March 10, 2024 |
+| [Go With the Flow]({{ "/teaching/csc/122/labs/go-with-the-flow.html" | absolute_url }}) | 3 | March 17, 2024 |
+| [A Simple Todo List]({{ "/teaching/csc/122/labs/a-simple-todo-list.html" | absolute_url }}) | 3 | April 7, 2024 |
+| [A Functional Use for Lambdas]({{ "/teaching/csc/122/labs/a-functional-use-for-lambdas.html" | absolute_url }}) | 3 | April 14, 2024 |
 
 ## Portfolio Assignments
 
