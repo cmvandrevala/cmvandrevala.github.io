@@ -40,7 +40,7 @@ semester: Spring 2024
 | [Well, That's Just Prime]({{ "/teaching/csc/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | February 4, 2024 |
 | [Growing Pains]({{ "/teaching/csc/labs/growing-pains.html" | absolute_url }}) | 2 | February 25, 2024 |
 | [Meet in the Middle]({{ "/teaching/csc/labs/meet-in-the-middle.html" | absolute_url }}) | 2 | February 25, 2024 |
-| [Count'em Up]({{ "/teaching/csc/labs/count-em-up.html" | absolute_url }}) | 2 | March 3, 2024 |
+| [Count'em Up]({{ "/teaching/csc/122/labs/count-em-up.html" | absolute_url }}) | 2 | March 3, 2024 |
 | [You Get an A]({{ "/teaching/csc/labs/you-get-an-a.html" | absolute_url }}) | 2 | March 3, 2024 |
 | [I Get the Point]({{ "/teaching/csc/labs/i-get-the-point.html" | absolute_url }}) | 2 | March 10, 2024 |
 | [Go With the Flow]({{ "/teaching/csc/labs/go-with-the-flow.html" | absolute_url }}) | 3 | March 17, 2024 |
