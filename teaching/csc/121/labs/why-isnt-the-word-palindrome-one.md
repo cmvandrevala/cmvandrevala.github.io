@@ -18,7 +18,7 @@ This problem is available courtesy of {% cite jamesWhyIsnWord2018 %}.
 
 ## 🎯 Problem Statement
 
-Write a function that determines if a string input is a palindrome.
+Write a function called `is_palindrome(...)` that determines if a string input is a palindrome.
 
 ## ✅ Acceptance Criteria
 
@@ -59,7 +59,7 @@ int main() {
 
 ### (One Credit) Header File
 
-Move your `is_palindrome` function into a separate file from `main()` and create a corresponding header file. Then, `#include` the header file for your palindrome function in `main()`. This should not change the functionality of your code.
+Move your `is_palindrome` function into a separate file from `main()` and create a corresponding header file. Then, `#include` the header file for your function in `main()`. This should not change the functionality of your code.
 
 ### (Two Credits) Phrase Palindromes
 
