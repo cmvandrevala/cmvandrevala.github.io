@@ -27,4 +27,5 @@ semester: Spring 2024
 | [Out in the Middle of Space]({{ "/teaching/csc/121/labs/out-in-the-middle-of-space.html" | absolute_url }}) | 2 | March 24, 2024 |
 | [Times Are Changing]({{ "/teaching/csc/121/labs/times-are-changing.html" | absolute_url }}) | 2 | March 24, 2024 |
 | [A Tiny Word Processor]({{ "/teaching/csc/121/labs/a-tiny-word-processor.html" | absolute_url }}) | 2 | March 24, 2024 |
+| [Why Isn't the Word Palindrome One?]({{ "/teaching/csc/121/labs/why-isnt-the-word-palindrome-one.html" | absolute_url }}) | 2 | April 7, 2024 |
 | [It's Raining Strings]({{ "/teaching/csc/shared-labs/its-raining-strings.html" | absolute_url }}) | 3 | April 28, 2024 |

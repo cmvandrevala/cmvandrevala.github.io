@@ -13,7 +13,7 @@ $$
 
 However, this is not the only way that we could define a point in space. In some problems, it makes sense to use spherical coordinates. With a spherical coordinate system, you measure a point in space by its distance from the origin (r), the angle that you rotate around the z-axis (\\( \\theta \\)), and the distance you rotate down from the z-axis (\\( \\phi \\)).
 
-![Spherical Coordinate System](../../../assets/spherical-coordinate-system.png)
+![Spherical Coordinate System]({{ "/assets/spherical-coordinate-system.png" | absolute_url }})
 
 Image courtesy of {% cite byjuSphericalCoordinatesDefinitionConversions %}.
 
