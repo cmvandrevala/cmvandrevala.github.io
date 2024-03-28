@@ -29,7 +29,8 @@ semester: Spring 2024
 | [Faraday's Law of Induction]({{ "/teaching/phy/122/lesson-plans/faradays-law-of-induction.html" | absolute_url }}) | February 29, 2024 |
 | [Maxwell's Equations]({{ "/teaching/phy/122/lesson-plans/maxwells-equations.html" | absolute_url }}) | March 19, 2024 |
 | [Electromagnetic Waves]({{ "/teaching/phy/122/lesson-plans/electromagnetic-waves.html" | absolute_url }}) | March 19, 2024 |
-| [Polarization]({{ "/teaching/phy/122/lesson-plans/polarization.html" | absolute_url }}) | March 20, 2024 |
+| [Polarization]({{ "/teaching/phy/122/lesson-plans/polarization.html" | absolute_url }}) |April 1, 2024 |
+| [Reflection and Refraction]({{ "/teaching/phy/122/lesson-plans/reflection-and-refraction.html" | absolute_url }}) | April 1 - 2, 2024 |
 
 ## Past Exams
 

@@ -40,3 +40,4 @@ title: RC Circuits
 ## 📘 Connected Resources
 
 * {% reference duffyRCCircuit2018 %}
+* {% reference giambattistaCollegePhysicsIntegrated2020 %}
