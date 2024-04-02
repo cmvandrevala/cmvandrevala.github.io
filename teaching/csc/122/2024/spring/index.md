@@ -24,6 +24,7 @@ semester: Spring 2024
 | [Pet Grooming With Polymorphism](https://github.com/cmvandrevala/csc_122_pet_grooming_with_polymorphism) | 7 |
 | [Operator Overloading](https://github.com/cmvandrevala/csc_122_operator_overloading) | 8 |
 | [Stream Examples](https://github.com/cmvandrevala/csc_122_stream_examples) | 10 |
+| [Iterator Examples](https://github.com/cmvandrevala/csc_122_iterators) | 12 |
 
 ## Lab Instructions
 
