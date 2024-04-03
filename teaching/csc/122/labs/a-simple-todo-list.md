@@ -30,7 +30,7 @@ The class should also have a method to clear the todo list.
 
 * `clear()` which deletes all of the tasks in the todo list (both complete and incomplete)
 
-You MUST use C++ itertors for any `for` loops in this submission.
+You MUST use C++ iterators for any `for` loops in this submission.
 
 ## 📋 Dev Notes
 
