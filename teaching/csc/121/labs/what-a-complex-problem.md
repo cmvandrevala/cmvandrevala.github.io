@@ -79,7 +79,7 @@ Write a `ComplexNumber` class that implements operations on complex numbers. The
 
 ## 📋 Dev Notes
 
-* You need to think about how you want to test these classes. Maybe try some assertions for each class individually along with a driver program?
+* You need to think about how you want to test this class. Maybe try some assertions for the class individually along with a driver program?
 
 ## 🖥️ Example Output
 
