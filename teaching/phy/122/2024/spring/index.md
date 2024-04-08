@@ -40,5 +40,6 @@ semester: Spring 2024
 | [Exam One (With Solutions)]({{ "/teaching/phy/122/past-exams/fall-2023-exam-1-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
 | [Exam One (With Solutions)]({{ "/teaching/phy/122/past-exams/spring-2024-exam-1-with-solutions.pdf" | absolute_url }}) | Spring 2024 |
 | [Exam Two (With Solutions)]({{ "/teaching/phy/122/past-exams/fall-2023-exam-2-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
+| [Exam Two (With Solutions)]({{ "/teaching/phy/122/past-exams/spring-2024-exam-2-with-solutions.pdf" | absolute_url }}) | Spring 2024 |
 | [Exam Three (With Solutions)]({{ "/teaching/phy/122/past-exams/fall-2023-exam-3-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
 | [Final Exam (With Solutions)]( {{ "/teaching/phy/122/past-exams/fall-2023-final-exam-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
