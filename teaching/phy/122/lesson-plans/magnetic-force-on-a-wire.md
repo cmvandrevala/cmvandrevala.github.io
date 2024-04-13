@@ -28,11 +28,11 @@ title: Magnetic Force on a Wire
 
 1. A straight, stiff wire of length 1.00 m and mass 25 g is suspended in a magnetic field B = 0.75 T. The wire is connected to an EMF so that current flows horizontally. How much current must flow in the wire and in what direction so that the tension in the supporting wires is zero? (chapter 19, problem 49 in {% cite giambattistaCollegePhysicsIntegrated2020 %})
 
-![Wire Suspended in Magnetic Field](../../../../assets/wire_suspended_in_magnetic_field.png)
+![Wire Suspended in Magnetic Field]({{ "/assets/wire_suspended_in_magnetic_field.png" | absolute_url }})
 
 2. A 20 cm by 30 cm rectangular loop of wire carries 1.0 A of current clockwise around the loop. Find the magnetic force on each side of the loop if the magnetic field is 2.5 T out of the page. What is the net magnetic force on the loop? (chapter 19, problem 50 in {% cite giambattistaCollegePhysicsIntegrated2020 %})
 
-![Wire Loop in a Magnetic Field](../../../../assets/loop_in_magnetic_field.png)
+![Wire Loop in a Magnetic Field]({{ "/assets/loop_in_magnetic_field.png" | absolute_url }})
 
 ## ✅ Partial Solutions
 
