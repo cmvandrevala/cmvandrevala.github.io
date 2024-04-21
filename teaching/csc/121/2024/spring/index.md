@@ -33,3 +33,4 @@ semester: Spring 2024
 | [What a Complex Problem]({{ "/teaching/csc/121/labs/what-a-complex-problem.html" | absolute_url }}) | 3 | April 14, 2024 |
 | [Tic-Tac-Toe Board]({{ "/teaching/csc/shared-labs/tic-tac-toe-board.html" | absolute_url }}) | 3 | April 28, 2024 |
 | [It's Raining Strings]({{ "/teaching/csc/shared-labs/its-raining-strings.html" | absolute_url }}) | 3 | April 28, 2024 |
+| [Oops! I Didn't Mean That]({{ "/teaching/csc/shared-labs/oops-i-didnt-mean-that.html" | absolute_url }}) | 3 | April 28, 2024 |
