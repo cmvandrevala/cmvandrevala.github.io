@@ -49,6 +49,7 @@ semester: Spring 2024
 | [A Functional Use for Lambdas]({{ "/teaching/csc/122/labs/a-functional-use-for-lambdas.html" | absolute_url }}) | 3 | April 14, 2024 |
 | [Links in a Chain]({{ "/teaching/csc/122/labs/links-in-a-chain.html" | absolute_url }}) | 3 | April 21, 2024 |
 | [A Stack of Dishes]({{ "/teaching/csc/122/labs/a-stack-of-dishes.html" | absolute_url }}) | 3 | April 21, 2024 |
+| [A Mighty Oak Tree]({{ "/teaching/csc/122/labs/a-mighty-oak-tree.html" | absolute_url }}) | 3 | April 28, 2024 |
 
 ## Portfolio Assignments
 
