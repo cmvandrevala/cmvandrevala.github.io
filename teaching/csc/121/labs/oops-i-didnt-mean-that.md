@@ -5,7 +5,7 @@ title: Oops! I Didn't Mean That
 
 ## 🔖 Background Information
 
-There is no background information required for this problem.
+This lab is available courtesy of {% cite jamesOopsDidnMean2018 %}.
 
 ## 🎯 Problem Statement
 
