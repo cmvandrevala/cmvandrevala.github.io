@@ -15,7 +15,7 @@ Write a binary tree data structure that stores `Squirrel` objects.
 
 * The nodes of the binary tree data structure should be C++ objects.
 * I should be able to create a node and attach it to an existing node in the tree. Moreover, I should be able to specify whether I want to connect the new node as the "left" or "right" child.
-* I should be able to traverse the three, starting from the root and moving to the leaves. Moreover, I should be able to move to the two child nodes of a given node using the `left` and `right` methods.
+* I should be able to traverse the tree, starting from the root and moving to the leaves. Moreover, I should be able to move to the two child nodes of a given node using the `left` and `right` methods.
 
 ## 📋 Dev Notes
 
