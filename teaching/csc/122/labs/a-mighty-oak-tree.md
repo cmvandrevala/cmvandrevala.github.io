@@ -5,7 +5,7 @@ title: A Mighty Oak Tree
 
 ## 🔖 Background Information
 
-A binary tree data structure consists of a set of nodes, each carrying a piece of data. Every node in the tree can point to two children, canonically called "left" and "right". This short article gives a nice overview of the binary tree structure: <https://www.programiz.com/dsa/binary-tree>
+A binary tree data structure consists of a set of nodes, each carrying a piece of data. Every node in the tree can point to two children, canonically called "left" and "right". This [short article](https://www.programiz.com/dsa/binary-tree) from Programiz gives a nice overview of the binary tree structure {% cite programizBinaryTree %}.
 
 ## 🎯 Problem Statement
 
