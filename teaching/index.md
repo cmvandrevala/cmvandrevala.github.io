@@ -15,4 +15,5 @@ description: This is a list of classes that I have taught along with resources f
 
 | Course Number | Semester | Year |
 | ------------- | -------- | ---- |
-| [PHY 122](./phy/122/2024/spring/index.html) | Spring   | 2024 |
+| [PHY 122](./phy/122/2024/spring/index.html) | Spring | 2024 |
+| [PHY 202](./phy/202/2024/summer/index.html) | Summer | 2024 |
