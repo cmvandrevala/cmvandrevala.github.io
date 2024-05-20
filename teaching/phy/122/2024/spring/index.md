@@ -11,7 +11,7 @@ semester: Spring 2024
 | --- | --------- |
 | [Math Review]({{ "/teaching/phy/122/lesson-plans/math-review.html" | absolute_url }}) | January 16, 2024 |
 | [Electric Charge and Coulomb's Law]({{ "/teaching/phy/122/lesson-plans/electric-charge-and-coulombs-law.html" | absolute_url }}) | January 17, 2024 |
-| [Linearization]({{ "/teaching/phy/122/lesson-plans/linearization.html" | absolute_url }}) | January 22, 2024 |
+| [Linearization]({{ "/teaching/phy/shared/lesson-plans/linearization.html" | absolute_url }}) | January 22, 2024 |
 | [Electric Fields]({{ "/teaching/phy/122/lesson-plans/electric-fields.html" | absolute_url }}) | January 23, 2024 |
 | [Gauss' Law]({{ "/teaching/phy/122/lesson-plans/gauss-law.html" | absolute_url }}) | January 24, 2024 |
 | [Electric Potential Energy]({{ "/teaching/phy/122/lesson-plans/electric-potential-energy.html" | absolute_url }}) | January 25, 2024 |
