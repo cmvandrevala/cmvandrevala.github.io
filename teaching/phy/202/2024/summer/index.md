@@ -18,4 +18,5 @@ semester: Summer 2024
 | [Coulomb's Law for Continuous Charge Distributions]({{ "/teaching/phy/202/lesson-plans/coulombs-law-for-continuous-charge-distributions.html" | absolute_url }}) | May 23 - 28, 2024 |
 | [Gauss' Law (Part 1)]({{ "/teaching/phy/202/lesson-plans/gauss-law-part-1.html" | absolute_url }}) | May 28, 2024 |
 | [Gauss' Law (Part 2)]({{ "/teaching/phy/202/lesson-plans/gauss-law-part-2.html" | absolute_url }}) | June 3, 2024 |
-| [Error Analysis]({{ "/teaching/phy/shared/lesson-plans/error-analysis.html" | absolute_url }}) | June 3, 2024 |
+| [Electric Potential]({{ "/teaching/phy/202/lesson-plans/electric-potential.html" | absolute_url }}) | June 3, 2024 |
+| [Error Analysis]({{ "/teaching/phy/shared/lesson-plans/error-analysis.html" | absolute_url }}) | June 4, 2024 |
