@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gauss' Law
+title: Gauss' Law (Part 1)
 ---
 
 ## 🔖 Topics
@@ -12,7 +12,7 @@ title: Gauss' Law
 ## 🎯 Objectives
 
 * Calculate the electric flux passing through a variety of surfaces (open and closed)
-* Calculate the electric field from highly symmetric charge distributions using Gauss' law
+* Calculate the electric field from spherical charge distributions using Gauss' law
 
 ## 📋 Sequence
 
@@ -23,12 +23,10 @@ title: Gauss' Law
 * Ball of charge
 * Shell of charge
 * Concentric shells of charge
-* Line of charge
-* Plane of charge
 
 ## 🖥️ Animations, Simulations, Activities
 
-* [Electric Flux Simulation](https://www.geogebra.org/m/r7Ue9Nac).
+* [Electric Flux Simulation](https://www.geogebra.org/m/r7Ue9Nac)
 
 ## 📝 Practice Problems
 
