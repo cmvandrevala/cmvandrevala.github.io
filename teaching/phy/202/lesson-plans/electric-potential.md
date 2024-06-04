@@ -43,6 +43,7 @@ title: Electric Potential
 
 * [Electric Field Simulation](https://icphysweb.z13.web.core.windows.net/simulation.html)
 * [Equipotentials and Electric Fields](https://ophysics.com/em9.html)
+* [Oscillations of Point Charge Near Center of Ring](https://www.tychos.org/en/scenarios/aOwmVl)
 
 ## 📝 Practice Problems
 
