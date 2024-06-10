@@ -20,6 +20,7 @@ Write two functions - one which finds a character in a string and another which 
 ## ✅ Acceptance Criteria
 
 * Write two functions which find a character / substring within a given string.
+* You are not allowed to use the `std::string.find` function. Instead, you must write your own solution from scratch.
 * Use function overloading so that each of the functions has the same name. I don't want to have to distinguish between `findCharacter` versus `findSubstring`.
 * Write a driver program that exercises your functions. Make sure that it tests a variety of cases to ensure that your code is working as expected.
 
