@@ -24,3 +24,4 @@ semester: Summer 2024
 | [Error Analysis]({{ "/teaching/phy/shared/lesson-plans/error-analysis.html" | absolute_url }}) | June 4, 2024 |
 | [RC Circuits]({{ "/teaching/phy/shared/lesson-plans/rc-circuits.html" | absolute_url }}) | June 6 - 10, 2024 |
 | [Magnetic Force on a Point Charge]({{ "/teaching/phy/shared/lesson-plans/magnetic-force-on-a-point-charge.html" | absolute_url }}) | June 11, 2024 |
+| [Magnetic Force on a Wire]({{ "/teaching/phy/shared/lesson-plans/magnetic-force-on-a-wire.html" | absolute_url }}) | June 13, 2024 |
