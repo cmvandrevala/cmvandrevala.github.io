@@ -7,7 +7,7 @@ title: A Terribly Weighty Subject
 
 In the Imperial system of measurements, weight can be measured using ounces and pounds. There are 16 ounces in one pound. Ounce is abbreviated as "oz" and pound is abbreviated as "lb" (singular) or "lbs" (plural).
 
-This problem is available courtesy of {% cite jamesTERRIBLYWeightySubject2017 %}
+This problem is available courtesy of {% cite jamesTERRIBLYWeightySubject2017 %}.
 
 ## 🎯 Problem Statement
 
