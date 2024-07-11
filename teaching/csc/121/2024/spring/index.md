@@ -40,3 +40,4 @@ semester: Spring 2024
 | Activity Name | Date |
 | ------------- | ---- |
 | [Truth Tables]({{ "/teaching/csc/121/activities/truth-tables.html" | absolute_url }}) | February 26, 2024 |
+| [Choose Your Own Adventure]({{ "/teaching/csc/121/activities/choose-your-own-adventure.html" | absolute_url }}) | March 4, 2024 |

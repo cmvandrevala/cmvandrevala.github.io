@@ -28,11 +28,11 @@ Write out the truth tables for the following expressions:
 
 ## 📋 Dev Notes
 
-No dev notes needed for this activity!
+N/A
 
 ## 🖥️ Example Output
 
-There is no code output for this activity!
+N/A
 
 ## 📘 Works Cited
 
