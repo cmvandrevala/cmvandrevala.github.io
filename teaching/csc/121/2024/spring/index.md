@@ -42,3 +42,4 @@ semester: Spring 2024
 | [Truth Tables]({{ "/teaching/csc/121/activities/truth-tables.html" | absolute_url }}) | February 26, 2024 |
 | [Choose Your Own Adventure]({{ "/teaching/csc/121/activities/choose-your-own-adventure.html" | absolute_url }}) | March 4, 2024 |
 | [Rock, Paper, Scissors: Part 1]({{ "/teaching/csc/121/activities/rock-paper-scissors-part-1.html" | absolute_url }}) | March 11, 2024 |
+| [Rock, Paper, Scissors: Part 2]({{ "/teaching/csc/121/activities/rock-paper-scissors-part-2.html" | absolute_url }}) | March 18, 2024 |
