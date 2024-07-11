@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Well, That's Just Prime
 ---
 

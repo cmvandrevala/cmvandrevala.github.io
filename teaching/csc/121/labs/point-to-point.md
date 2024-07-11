@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Point to Point
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: A Functional Use for Lambdas
 ---
 

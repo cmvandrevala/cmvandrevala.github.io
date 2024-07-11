@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Oops! Shall We Try Again?
 ---
 

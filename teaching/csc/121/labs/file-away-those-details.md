@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: File Away Those Details
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: To Meet or Not to Meet
 ---
 

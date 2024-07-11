@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: What Runs All Day But Has No Legs?
 ---
 

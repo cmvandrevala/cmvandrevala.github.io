@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Oops! I Didn't Mean That
 ---
 

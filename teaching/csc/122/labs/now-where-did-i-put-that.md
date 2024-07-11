@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Now Where Did I Put That?
 ---
 

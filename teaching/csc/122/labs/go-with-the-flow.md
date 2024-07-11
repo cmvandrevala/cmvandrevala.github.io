@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Go With the Flow
 ---
 

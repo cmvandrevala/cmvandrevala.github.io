@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: After a String Argument, I End Up in Knots
 ---
 

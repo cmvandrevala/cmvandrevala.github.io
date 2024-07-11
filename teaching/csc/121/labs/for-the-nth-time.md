@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: For the Nth Time
 ---
 

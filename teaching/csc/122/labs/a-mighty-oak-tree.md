@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: A Mighty Oak Tree
 ---
 

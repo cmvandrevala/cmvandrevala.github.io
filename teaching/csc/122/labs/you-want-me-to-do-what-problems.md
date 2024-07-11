@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: You Want Me to Do What Problems?
 ---
 

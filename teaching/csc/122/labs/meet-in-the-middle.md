@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Meet in the Middle
 ---
 

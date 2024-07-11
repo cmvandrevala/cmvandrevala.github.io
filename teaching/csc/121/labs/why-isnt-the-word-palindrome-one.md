@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: Why Isn't the Word Palindrome One?
 ---
 

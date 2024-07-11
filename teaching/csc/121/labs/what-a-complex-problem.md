@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lab
 title: What a Complex Problem
 ---
 
