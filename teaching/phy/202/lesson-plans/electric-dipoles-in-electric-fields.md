@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson-plan
 title: Electric Dipoles in Electric Fields
 ---
 

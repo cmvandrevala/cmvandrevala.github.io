@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson-plan
 title: Conceptual Notion of Fields
 ---
 

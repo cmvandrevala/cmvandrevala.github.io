@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Teaching
-description: This is a list of classes that I have taught along with resources for each of them.
 ---
 
 ## Computer Science

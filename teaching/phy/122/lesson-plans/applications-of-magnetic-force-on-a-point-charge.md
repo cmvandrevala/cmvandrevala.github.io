@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson-plan
 title: Applications of Magnetic Force on a Point Charge
 ---
 

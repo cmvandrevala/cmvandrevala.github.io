@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson-plan
 title: Magnetic Force on a Wire
 ---
 
