@@ -14,5 +14,6 @@ title: Teaching
 
 | Course Number | Semester | Year |
 | ------------- | -------- | ---- |
+| [PHY 121](./phy/121/2023/spring/index.html) | Spring | 2023 |
 | [PHY 122](./phy/122/2024/spring/index.html) | Spring | 2024 |
 | [PHY 202](./phy/202/2024/summer/index.html) | Summer | 2024 |
