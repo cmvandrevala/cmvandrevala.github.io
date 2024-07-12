@@ -52,6 +52,8 @@ int main()
 
 ## 📋 Dev Notes
 
+N/A
+
 ## 🖥️ Example Output
 
 If you successfully complete this challenge, the assertion in `int main()` will pass and you will see the phrase "Marco! Polo!" printed to the console.
