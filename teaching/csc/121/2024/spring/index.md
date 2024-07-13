@@ -47,3 +47,4 @@ semester: Spring 2024
 | [Student Class]({{ "/teaching/csc/121/activities/student-class.html" | absolute_url }}) | April 3, 2024 |
 | [Marco Polo]({{ "/teaching/csc/121/activities/marco-polo.html" | absolute_url }}) | April 10, 2024 |
 | [Hangman: Part 1]({{ "/teaching/csc/121/activities/hangman-part-1.html" | absolute_url }}) | April 15, 2024 |
+| [Hangman: Part 2]({{ "/teaching/csc/121/activities/hangman-part-2.html" | absolute_url }}) | April 22, 2024 |
