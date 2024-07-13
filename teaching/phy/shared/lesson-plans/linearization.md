@@ -35,7 +35,7 @@ topics:
 ## 🖥️ Animations, Simulations, Activities
 
 * [Linearization of the Position Graph of an Accelerating Car](https://www.tychos.org/en/scenarios/XL0Iq4)
-* [Examples of Linearization]({{ "/assets/pdfs/Linearization.pdf" | absolute_url }})
+* [Examples of Linearization]({{ "/assets/pdf/Linearization.pdf" | absolute_url }})
 
 ## 📝 Practice Problems
 
