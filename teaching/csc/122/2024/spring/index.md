@@ -57,3 +57,4 @@ semester: Spring 2024
 | --- | --------- |
 | [Tic-Tac-Toe (Part 1)]({{ "/teaching/csc/122/portfolios/tic-tac-toe-part-1.html" | absolute_url }}) | 1 |
 | [Tic-Tac-Toe (Part 2)]({{ "/teaching/csc/122/portfolios/tic-tac-toe-part-2.html" | absolute_url }}) | 2 |
+| [Tic-Tac-Toe (Part 3)]({{ "/teaching/csc/122/portfolios/tic-tac-toe-part-3.html" | absolute_url }}) | 3 |
