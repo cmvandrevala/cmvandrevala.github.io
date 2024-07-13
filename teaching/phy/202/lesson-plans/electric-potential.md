@@ -1,14 +1,12 @@
 ---
 layout: lesson-plan
 title: Electric Potential
+topics:
+  - Definition of electric potential and potential difference
+  - Relationship between electric field and electric potential
+  - Electric potential due to discrete charge distributions
+  - Electric potential due to continuous charge distributions
 ---
-
-## 🔖 Topics
-
-* Definition of electric potential and potential difference
-* Relationship between electric field and electric potential
-* Electric potential due to discrete charge distributions
-* Electric potential due to continuous charge distributions
 
 ## 🎯 Objectives
 

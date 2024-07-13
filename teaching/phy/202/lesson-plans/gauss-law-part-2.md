@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Gauss' Law (Part 2)
+topics:
+  - Gauss' law for lines of charge
+  - Gauss' law for planes of charge
+  - Gauss' law within a conductor
 ---
-
-## 🔖 Topics
-
-* Gauss' law for lines of charge
-* Gauss' law for planes of charge
-* Gauss' law within a conductor
 
 ## 🎯 Objectives
 

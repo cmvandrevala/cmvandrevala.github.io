@@ -1,16 +1,14 @@
 ---
 layout: lesson-plan
 title: Reflection and Refraction
+topics:
+  - Geometric optics
+  - Reflection
+  - Plane mirrors
+  - Refraction
+  - Total internal reflection
+  - Apparent depth
 ---
-
-## 🔖 Topics
-
-* Geometric optics
-* Reflection
-* Plane mirrors
-* Refraction
-* Total internal reflection
-* Apparent depth
 
 ## 🎯 Objectives
 

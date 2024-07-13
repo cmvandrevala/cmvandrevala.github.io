@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Electric Potential Energy
+topics:
+  - Definition of electric potential energy
+  - Electric potential energy of point charges
+  - Conservation of energy
 ---
-
-## 🔖 Topics
-
-* Definition of electric potential energy
-* Electric potential energy of point charges
-* Conservation of energy
 
 ## 🎯 Objectives
 

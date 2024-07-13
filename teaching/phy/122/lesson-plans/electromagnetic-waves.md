@@ -1,15 +1,13 @@
 ---
 layout: lesson-plan
 title: Electromagnetic Waves
+topics:
+  - Properties of electromagnetic waves
+  - Electromagnetic spectrum
+  - Dipole antennae
+  - Speed of light
+  - Index of refraction
 ---
-
-## 🔖 Topics
-
-* Properties of electromagnetic waves
-* Electromagnetic spectrum
-* Dipole antennae
-* Speed of light
-* Index of refraction
 
 ## 🎯 Objectives
 

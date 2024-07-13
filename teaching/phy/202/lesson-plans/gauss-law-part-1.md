@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Gauss' Law (Part 1)
+topics:
+  - Electric flux
+  - Open versus closed surfaces
+  - Gauss' law
 ---
-
-## 🔖 Topics
-
-* Electric flux
-* Open versus closed surfaces
-* Gauss' law
 
 ## 🎯 Objectives
 

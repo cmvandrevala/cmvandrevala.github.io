@@ -1,14 +1,12 @@
 ---
 layout: lesson-plan
 title: Gauss' Law
+topics:
+  - Electric Flux
+  - Closed Surfaces
+  - Symmetry
+  - Gauss' Law
 ---
-
-## 🔖 Topics
-
-* Electric Flux
-* Closed Surfaces
-* Symmetry
-* Gauss' Law
 
 ## 🎯 Objectives
 

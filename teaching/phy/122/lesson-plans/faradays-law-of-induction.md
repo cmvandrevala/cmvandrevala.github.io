@@ -1,12 +1,10 @@
 ---
 layout: lesson-plan
 title: Faraday's Law of Induction
+topics:
+  - Faraday's law of induction
+  - Lenz's law
 ---
-
-## 🔖 Topics
-
-* Faraday's law of induction
-* Lenz's law
 
 ## 🎯 Objectives
 

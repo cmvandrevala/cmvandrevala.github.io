@@ -1,12 +1,10 @@
 ---
 layout: lesson-plan
 title: Coulomb's Law for Continuous Charge Distributions
+topics:
+  - Discrete vs continuous charge distributions
+  - Coulomb's law for a continuous charge distribution
 ---
-
-## 🔖 Topics
-
-* Discrete vs continuous charge distributions
-* Coulomb's law for a continuous charge distribution
 
 ## 🎯 Objectives
 

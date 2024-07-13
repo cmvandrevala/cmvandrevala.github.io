@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Electric Potential
+topics:
+  - Definition of electric potential
+  - Comparison of electric potential to electric potential energy
+  - Relation of electric potential to electric field
 ---
-
-## 🔖 Topics
-
-* Definition of electric potential
-* Comparison of electric potential to electric potential energy
-* Relation of electric potential to electric field
 
 ## 🎯 Objectives
 

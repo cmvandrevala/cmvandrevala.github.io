@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Linearization
+topics:
+  - Linearization of polynomials
+  - Linearization of exponentials
+  - Linearization of logarithms
 ---
-
-## 🔖 Topics
-
-* Linearization of polynomials
-* Linearization of exponentials
-* Linearization of logarithms
 
 ## 🎯 Objectives
 

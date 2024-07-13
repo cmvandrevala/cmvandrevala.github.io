@@ -1,14 +1,12 @@
 ---
 layout: lesson-plan
 title: Electric Charge and Coulomb's Law
+topics:
+  - Electric charge
+  - Conductors and insulators
+  - Charging objects
+  - Coulomb's law
 ---
-
-## 🔖 Topics
-
-* Electric charge
-* Conductors and insulators
-* Charging objects
-* Coulomb's law
 
 ## 🎯 Objectives
 

@@ -1,14 +1,12 @@
 ---
 layout: lesson-plan
 title: Math Review
+topics:
+  - Right-handed coordinate systems
+  - Review of trigonometry
+  - Review of vectors
+  - Review of calculus
 ---
-
-## 🔖 Topics
-
-* Right-handed coordinate systems
-* Review of trigonometry
-* Review of vectors
-* Review of calculus
 
 ## 🎯 Objectives
 

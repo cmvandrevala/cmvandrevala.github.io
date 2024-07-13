@@ -1,16 +1,13 @@
 ---
 layout: lesson-plan
 title: Error Analysis
+topics:
+  - Accuracy versus precision
+  - Gross / human errors
+  - Random errors
+  - Systemic errors
+  - Error mitigation techniques
 ---
-
-## 🔖 Topics
-
-* Accuracy versus precision
-* Types of errors
-  * Gross / human errors
-  * Random errors
-  * Systemic errors
-* Error mitigation techniques
 
 ## 🎯 Objectives
 

@@ -1,14 +1,12 @@
 ---
 layout: lesson-plan
 title: Capacitors and Dielectrics
+topics:
+  - Definition of capacitance
+  - Parallel plate capacitors
+  - Dielectric materials
+  - Electric fields around parallel plate capacitors
 ---
-
-## 🔖 Topics
-
-* Definition of capacitance
-* Parallel plate capacitors
-* Dielectric materials
-* Electric fields around parallel plate capacitors
 
 ## 🎯 Objectives
 

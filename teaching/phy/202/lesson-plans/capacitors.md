@@ -1,15 +1,13 @@
 ---
 layout: lesson-plan
 title: Capacitors in Circuits
+topics:
+  - The ideal capacitor (circuit element)
+  - The ideal battery (circuit element)
+  - Capacitors in series
+  - Capacitors in parallel
+  - Energy stored in a capacitor
 ---
-
-## 🔖 Topics
-
-* The ideal capacitor (circuit element)
-* The ideal battery (circuit element)
-* Capacitors in series
-* Capacitors in parallel
-* Energy stored in a capacitor
 
 ## 🎯 Objectives
 

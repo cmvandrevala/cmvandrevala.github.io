@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Coulomb's Law for Discrete Charge Distributions
+topics:
+  - Electric charge
+  - Coulomb's law
+  - Superposition
 ---
-
-## 🔖 Topics
-
-* Electric charge
-* Coulomb's law
-* Superposition
 
 ## 🎯 Objectives
 

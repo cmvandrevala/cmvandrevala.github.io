@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Maxwell's Equations
+topics:
+- Displacement current
+- Maxwell's equations
+- Electromagnetic waves
 ---
-
-## 🔖 Topics
-
-* Displacement current
-* Maxwell's equations
-* Electromagnetic waves
 
 ## 🎯 Objectives
 

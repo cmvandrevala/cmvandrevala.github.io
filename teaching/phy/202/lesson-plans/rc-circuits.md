@@ -1,11 +1,9 @@
 ---
 layout: lesson-plan
 title: RC Circuits
+topics:
+  - Simple RC circuits
 ---
-
-## 🔖 Topics
-
-* Simple RC circuits
 
 ## 🎯 Objectives
 

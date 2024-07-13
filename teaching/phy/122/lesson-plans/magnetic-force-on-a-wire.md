@@ -1,12 +1,10 @@
 ---
 layout: lesson-plan
 title: Magnetic Force on a Wire
+topics:
+  - Magnetic force on a current-carrying wire
+  - Torque on a current-carrying loop
 ---
-
-## 🔖 Topics
-
-* Magnetic force on a current-carrying wire
-* Torque on a current-carrying loop
 
 ## 🎯 Objectives
 

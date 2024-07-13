@@ -1,12 +1,10 @@
 ---
 layout: lesson-plan
 title: Gauss' Law for Magnetic Fields
+topics:
+  - Magnetic flux
+  - Gauss' law for magnetic fields
 ---
-
-## 🔖 Topics
-
-* Magnetic flux
-* Gauss' law for magnetic fields
 
 ## 🎯 Objectives
 

@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Introduction to Magnetism
+topics:
+  - Magnets
+  - Magnetic Fields
+  - Magnetic Force on Charged Particles
 ---
-
-## 🔖 Topics
-
-* Magnets
-* Magnetic Fields
-* Magnetic Force on Charged Particles
 
 ## 🎯 Objectives
 

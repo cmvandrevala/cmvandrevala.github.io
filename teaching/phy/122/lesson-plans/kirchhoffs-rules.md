@@ -1,14 +1,12 @@
 ---
 layout: lesson-plan
 title: Kirchhoff's Rules
+topics:
+  - Kirchhoff's current rule
+  - Kirchhoff's voltage rule
+  - Small networks of resistors and batteries
+  - Systems of three or more equations
 ---
-
-## 🔖 Topics
-
-* Kirchhoff's current rule
-* Kirchhoff's voltage rule
-* Small networks of resistors and batteries
-* Systems of three or more equations
 
 ## 🎯 Objectives
 

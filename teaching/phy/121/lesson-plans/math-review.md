@@ -1,12 +1,10 @@
 ---
 layout: lesson-plan
 title: Math Review
+topics:
+  - Vectors
+  - Dimensional Analysis
 ---
-
-## 🔖 Topics
-
-* Vectors
-* Dimensional Analysis
 
 ## 🎯 Objectives
 

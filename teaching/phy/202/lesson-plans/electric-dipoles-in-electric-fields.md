@@ -1,15 +1,13 @@
 ---
 layout: lesson-plan
 title: Electric Dipoles in Electric Fields
+topics:
+  - Review of charged particles in electric fields
+  - Electric dipoles
+  - Dipole moments
+  - Torque on a dipole
+  - Potential energy of a dipole
 ---
-
-## 🔖 Topics
-
-* Review of charged particles in electric fields
-* Electric dipoles
-* Dipole moments
-* Torque on a dipole
-* Potential energy of a dipole
 
 ## 🎯 Objectives
 

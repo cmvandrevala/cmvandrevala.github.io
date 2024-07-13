@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Polarization
+topics:
+  - Intensity
+  - Polarizing filters
+  - Linear polarization of light
 ---
-
-## 🔖 Topics
-
-* Intensity
-* Polarizing filters
-* Linear polarization of light
 
 ## 🎯 Objectives
 

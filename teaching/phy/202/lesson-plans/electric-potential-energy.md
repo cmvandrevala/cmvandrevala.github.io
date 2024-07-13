@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Electric Potential Energy
+topics:
+  - Definition of electric potential energy
+  - Conservation of energy with electric potential energy
+  - Conversions between electric force, field, potential, and potential energy
 ---
-
-## 🔖 Topics
-
-* Definition of electric potential energy
-* Conservation of energy with electric potential energy
-* Conversions between electric force, field, potential, and potential energy
 
 ## 🎯 Objectives
 

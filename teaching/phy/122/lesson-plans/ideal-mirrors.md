@@ -1,12 +1,10 @@
 ---
 layout: lesson-plan
 title: Ideal Mirrors
+topics:
+  - "Optics terminology: magnification, radius of curvature, focal length, etc."
+  - Ideal mirrors
 ---
-
-## 🔖 Topics
-
-* Optics terminology: magnification, radius of curvature, focal length, etc.
-* Ideal mirrors
 
 ## 🎯 Objectives
 

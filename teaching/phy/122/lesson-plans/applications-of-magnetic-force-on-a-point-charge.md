@@ -1,14 +1,12 @@
 ---
 layout: lesson-plan
 title: Applications of Magnetic Force on a Point Charge
+topics:
+  - Uniform circular motion of charged particles in a magnetic field
+  - Mass spectrometer
+  - Velocity selector
+  - More practice with the right-hand rules
 ---
-
-## 🔖 Topics
-
-* Uniform circular motion of charged particles in a magnetic field
-* Mass spectrometer
-* Velocity selector
-* More practice with the right-hand rules
 
 ## 🎯 Objectives
 

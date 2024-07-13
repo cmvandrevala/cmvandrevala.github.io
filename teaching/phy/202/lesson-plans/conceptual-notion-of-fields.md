@@ -1,15 +1,13 @@
 ---
 layout: lesson-plan
 title: Conceptual Notion of Fields
+topics:
+  - Conceptual notion of fields
+  - Scalar fields
+  - Vector fields
+  - Higher-order (tensor) fields
+  - Superposition
 ---
-
-## 🔖 Topics
-
-* Conceptual notion of fields
-* Scalar fields
-* Vector fields
-* Higher-order (tensor) fields
-* Superposition
 
 ## 🎯 Objectives
 

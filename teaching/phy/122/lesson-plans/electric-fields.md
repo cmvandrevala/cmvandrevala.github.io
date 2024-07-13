@@ -1,13 +1,11 @@
 ---
 layout: lesson-plan
 title: Electric Fields
+topics:
+  - Electric field
+  - Motion of a point charge in an electric field
+  - Electric dipoles
 ---
-
-## 🔖 Topics
-
-* Electric field
-* Motion of a point charge in an electric field
-* Electric dipoles
 
 ## 🎯 Objectives
 

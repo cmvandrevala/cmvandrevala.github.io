@@ -1,16 +1,14 @@
 ---
 layout: lesson-plan
 title: Resistors in Circuits
+topics:
+  - Conventional current
+  - Ohm's law
+  - Power dissipated in a resistor
+  - Resistivity
+  - Resistors in series
+  - Resistors in parallel
 ---
-
-## 🔖 Topics
-
-* Conventional current
-* Ohm's law
-* Power dissipated in a resistor
-* Resistivity
-* Resistors in series
-* Resistors in parallel
 
 ## 🎯 Objectives
 

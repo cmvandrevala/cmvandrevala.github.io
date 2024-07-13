@@ -9,6 +9,13 @@ layout: base
   </header>
 
   <div class="post-content">
+    <h2>🔖 Topics</h2>
+    <ul>
+      {% for topic in page.topics %}
+      <li>{{ topic }}</li>
+      {% endfor %}
+    </ul>
+
     {{ content }}
   </div>
 
