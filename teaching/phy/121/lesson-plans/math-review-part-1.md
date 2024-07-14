@@ -1,6 +1,6 @@
 ---
 layout: lesson-plan
-title: Math Review
+title: "Math Review: Part 1"
 topics:
   - Vectors
   - Dimensional Analysis
