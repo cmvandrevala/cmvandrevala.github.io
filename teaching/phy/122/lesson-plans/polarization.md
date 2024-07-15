@@ -5,12 +5,10 @@ topics:
   - Intensity
   - Polarizing filters
   - Linear polarization of light
+objectives:
+  - Describe the difference between unpolarized and polarized light
+  - Calculate the intensity of light coming off of a polarizing filter
 ---
-
-## 🎯 Objectives
-
-* Describe the difference between unpolarized and polarized light
-* Calculate the intensity of light coming off of a polarizing filter
 
 ## 📋 Sequence
 

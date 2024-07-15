@@ -6,14 +6,12 @@ topics:
   - Mass spectrometer
   - Velocity selector
   - More practice with the right-hand rules
+objectives:
+  - Derive the expression for the radius of a particle traveling in uniform circular motion in a magnetic field
+  - Analyze the motion of charged particles in a mass spectrometer
+  - Analyze the motion of charged particles in a velocity selector
+  - Become more comfortable with the right-hand rule for a charged particle in a magnetic field
 ---
-
-## 🎯 Objectives
-
-* Derive the expression for the radius of a particle traveling in uniform circular motion in a magnetic field
-* Analyze the motion of charged particles in a mass spectrometer
-* Analyze the motion of charged particles in a velocity selector
-* Become more comfortable with the right-hand rule for a charged particle in a magnetic field
 
 ## 📋 Sequence
 

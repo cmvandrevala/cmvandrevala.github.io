@@ -6,16 +6,14 @@ topics:
   - Review of trigonometry
   - Review of vectors
   - Conceptual notion of fields
+objectives:
+  - Be able to draw and utilize a right-handed coordinate system
+  - Calculate the side lengths of a right triangle using the Pythagorean theorem
+  - Calculate the angles around a right triangle using sine, cosine, and tangent
+  - Perform basic operations on vectors (addition, subtraction, scalar multiplication, etc.)
+  - Calculate dot and cross products of vectors
+  - Describe a scalar and vector field, conceptually
 ---
-
-## 🎯 Objectives
-
-* Be able to draw and utilize a right-handed coordinate system
-* Calculate the side lengths of a right triangle using the Pythagorean theorem
-* Calculate the angles around a right triangle using sine, cosine, and tangent
-* Perform basic operations on vectors (addition, subtraction, scalar multiplication, etc.)
-* Calculate dot and cross products of vectors
-* Describe a scalar and vector field, conceptually
 
 ## 📋 Sequence
 

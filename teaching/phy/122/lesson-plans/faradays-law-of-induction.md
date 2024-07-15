@@ -4,12 +4,10 @@ title: Faraday's Law of Induction
 topics:
   - Faraday's law of induction
   - Lenz's law
+objectives:
+  - Calculate the induced EMF from a changing magnetic flux in a variety of situations
+  - Use Lenz's law to calculate the direction of the EMF from Faraday's law of induction
 ---
-
-## 🎯 Objectives
-
-* Calculate the induced EMF from a changing magnetic flux in a variety of situations
-* Use Lenz's law to calculate the direction of the EMF from Faraday's law of induction
 
 ## 📋 Sequence
 

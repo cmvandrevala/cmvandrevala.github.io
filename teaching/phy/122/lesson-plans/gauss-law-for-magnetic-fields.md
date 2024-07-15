@@ -4,12 +4,10 @@ title: Gauss' Law for Magnetic Fields
 topics:
   - Magnetic flux
   - Gauss' law for magnetic fields
+objectives:
+  - Calculate the magnetic flux through an open surface
+  - Calculate the net magnetic flux through a closed surface using Gauss' law for magnetic fields
 ---
-
-## 🎯 Objectives
-
-* Calculate the magnetic flux through an open surface
-* Calculate the net magnetic flux through a closed surface using Gauss' law for magnetic fields
 
 ## 📋 Sequence
 

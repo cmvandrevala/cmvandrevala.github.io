@@ -7,15 +7,13 @@ topics:
   - Capacitors in series
   - Capacitors in parallel
   - Energy stored in a capacitor
+objectives:
+  - Model ideal batteries and ideal capacitors in a circuit
+  - Sketch out different configurations of capacitors in circuits
+  - Identify capacitors in series and parallel in a circuit
+  - Calculate the net capacitance of a circuit
+  - Calculate the net energy stored in capacitors in a circuit
 ---
-
-## 🎯 Objectives
-
-* Model ideal batteries and ideal capacitors in a circuit
-* Sketch out different configurations of capacitors in circuits
-* Identify capacitors in series and parallel in a circuit
-* Calculate the net capacitance of a circuit
-* Calculate the net energy stored in capacitors in a circuit
 
 ## 📋 Sequence
 

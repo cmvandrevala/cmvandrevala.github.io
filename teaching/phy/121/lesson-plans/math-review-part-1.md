@@ -4,18 +4,10 @@ title: "Math Review: Part 1"
 topics:
   - Vectors
   - Dimensional Analysis
+objectives:
+  - Perform mathematical operations with two and three dimensional vectors
+  - Use dimensional analysis to gain insight into the validity of equations
 ---
-
-## 🎯 Objectives
-
-* Perform mathematical operations with two and three dimensional vectors
-  * Arithmetic
-  * Componetization
-  * Cross Product
-  * Dot Product
-  * Magnitude
-  * Normalization
-* Use dimensional analysis to gain insight into the validity of equations
 
 ## 📋 Sequence
 

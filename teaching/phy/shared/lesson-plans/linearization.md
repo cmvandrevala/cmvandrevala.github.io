@@ -5,16 +5,13 @@ topics:
   - Linearization of polynomials
   - Linearization of exponentials
   - Linearization of logarithms
+objectives:
+  - Describe some of the types of mathematical models
+  - Discuss why linearization is useful, even when we are able to get equations of best fit that are non-linear
+  - Transform polynomial datasets so that they are linearized
+  - Transform exponential datasets so that they are linearized
+  - Transform logarithmic datasets so that they are linearized
 ---
-
-## 🎯 Objectives
-
-* Describe some of the types of mathematical models
-* Discuss why linearization is useful, even when we are able to get equations of best fit that are non-linear
-* Transform data so that it is linearized
-  * Polynomials
-  * Exponentials
-  * Logarithms
 
 ## 📋 Sequence
 

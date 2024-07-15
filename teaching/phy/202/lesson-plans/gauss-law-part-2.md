@@ -5,12 +5,10 @@ topics:
   - Gauss' law for lines of charge
   - Gauss' law for planes of charge
   - Gauss' law within a conductor
+objectives:
+  - Calculate the electric flux passing through a variety of surfaces (open and closed)
+  - Calculate the electric field from highly symmetric charge distributions using Gauss' law
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric flux passing through a variety of surfaces (open and closed)
-* Calculate the electric field from highly symmetric charge distributions using Gauss' law
 
 ## 📋 Sequence
 

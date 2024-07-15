@@ -6,12 +6,10 @@ topics:
   - Kirchhoff's voltage rule
   - Small networks of resistors and batteries
   - Systems of three or more equations
+objectives:
+  - Analyze small networks of batteris and resistors using Kirchhoff's rules
+  - Review some of the basics of solving systems of equations
 ---
-
-## 🎯 Objectives
-
-* Analyze small networks of batteris and resistors using Kirchhoff's rules
-* Review some of the basics of solving systems of equations
 
 ## 📋 Sequence
 

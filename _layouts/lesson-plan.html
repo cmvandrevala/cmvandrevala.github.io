@@ -16,6 +16,13 @@ layout: base
       {% endfor %}
     </ul>
 
+    <h2>🎯 Objectives</h2>
+    <ul>
+      {% for objective in page.objectives %}
+      <li>{{ objective }}</li>
+      {% endfor %}
+    </ul>
+
     {{ content }}
   </div>
 

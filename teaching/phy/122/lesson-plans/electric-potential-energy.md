@@ -5,12 +5,10 @@ topics:
   - Definition of electric potential energy
   - Electric potential energy of point charges
   - Conservation of energy
+objectives:
+  - Calculate the electric potential energy between two point charges in different orientations
+  - Use conservation of energy to calculation the speed of point charges as they evolve in time
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric potential energy between two point charges in different orientations
-* Use conservation of energy to calculation the speed of point charges as they evolve in time
 
 ## 📋 Sequence
 

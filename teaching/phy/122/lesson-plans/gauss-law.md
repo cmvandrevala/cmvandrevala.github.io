@@ -6,14 +6,12 @@ topics:
   - Closed Surfaces
   - Symmetry
   - Gauss' Law
+objectives:
+  - Calculate the electric flux passing through an open surface
+  - Calculate the electric flux passing through a closed surface
+  - Talk about some of the basic symmetries of a problem (spherical, cylindrical, etc.)
+  - Calculate electric fields and charge distributions using Gauss' law
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric flux passing through an open surface
-* Calculate the electric flux passing through a closed surface
-* Talk about some of the basic symmetries of a problem (spherical, cylindrical, etc.)
-* Calculate electric fields and charge distributions using Gauss' law
 
 ## 📋 Sequence
 

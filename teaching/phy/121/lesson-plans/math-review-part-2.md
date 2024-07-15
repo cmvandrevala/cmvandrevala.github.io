@@ -5,13 +5,11 @@ topics:
   - Practice With Vectors
   - Practice With Dimensional Analysis
   - Introduction to Excel and PhET Lab
+objectives:
+  - Perform mathematical operations on vectors with greater confidence.
+  - Perform dimensional analysis with greater confidence.
+  - Learn how to work with PhET and Excel.
 ---
-
-## 🎯 Objectives
-
-* Perform mathematical operations on vectors with greater confidence.
-* Perform dimensional analysis with greater confidence.
-* Learn how to work with PhET and Excel.
 
 ## 📋 Sequence
 

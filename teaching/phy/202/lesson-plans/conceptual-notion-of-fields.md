@@ -7,13 +7,11 @@ topics:
   - Vector fields
   - Higher-order (tensor) fields
   - Superposition
+objectives:
+  - Describe the idea of a field, conceptually
+  - Calculate the magnitude and direction of a field at a given point in space
+  - Calculate the net result of two or more fields at a given point in space
 ---
-
-## 🎯 Objectives
-
-* Describe the idea of a field, conceptually
-* Calculate the magnitude and direction of a field at a given point in space
-* Calculate the net result of two or more fields at a given point in space
 
 ## 📋 Sequence
 

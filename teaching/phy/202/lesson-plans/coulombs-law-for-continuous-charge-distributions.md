@@ -4,11 +4,9 @@ title: Coulomb's Law for Continuous Charge Distributions
 topics:
   - Discrete vs continuous charge distributions
   - Coulomb's law for a continuous charge distribution
+objectives:
+  - Calculate the electric field from a continuous charge distribution using Coulomb's law
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric field from a continuous charge distribution using Coulomb's law
 
 ## 📋 Sequence
 

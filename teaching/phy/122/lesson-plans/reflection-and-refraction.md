@@ -8,14 +8,12 @@ topics:
   - Refraction
   - Total internal reflection
   - Apparent depth
+objectives:
+  - Describe the path that light takes as it travels within and between homogeneous media
+  - Utilize Snell's law to calculate how much light "bends" at an interface
+  - Calculate the angle at which total internal reflection occurs
+  - Solve a variety of problems related to geometric optics
 ---
-
-## 🎯 Objectives
-
-* Describe the path that light takes as it travels within and between homogeneous media
-* Utilize Snell's law to calculate how much light "bends" at an interface
-* Calculate the angle at which total internal reflection occurs
-* Solve a variety of problems related to geometric optics
 
 ## 📋 Sequence
 

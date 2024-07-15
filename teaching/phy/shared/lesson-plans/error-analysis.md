@@ -7,14 +7,12 @@ topics:
   - Random errors
   - Systemic errors
   - Error mitigation techniques
+objectives:
+  - Explain the difference between accuracy and precision
+  - Compare and contrast three major types of errors - gross / human, random, and systemic.
+  - Classify examples of errors as gross / human, random, or systemic
+  - Discuss different strategies to overcome errors in experiments
 ---
-
-## 🎯 Objectives
-
-* Explain the difference between accuracy and precision
-* Compare and contrast three major types of errors - gross / human, random, and systemic.
-* Classify examples of errors as gross / human, random, or systemic
-* Discuss different strategies to overcome errors in experiments
 
 ## 📋 Sequence
 

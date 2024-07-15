@@ -5,12 +5,10 @@ topics:
   - Electric flux
   - Open versus closed surfaces
   - Gauss' law
+objectives:
+  - Calculate the electric flux passing through a variety of surfaces (open and closed)
+  - Calculate the electric field from spherical charge distributions using Gauss' law
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric flux passing through a variety of surfaces (open and closed)
-* Calculate the electric field from spherical charge distributions using Gauss' law
 
 ## 📋 Sequence
 

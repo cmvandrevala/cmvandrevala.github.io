@@ -6,14 +6,12 @@ topics:
   - Parallel plate capacitors
   - Dielectric materials
   - Electric fields around parallel plate capacitors
+objectives:
+  - Describe what capacitance is and how it relates to charge and voltage
+  - Calculate the electric fields inside of a parallel plate capacitor
+  - Describe the effect of a dielectric material on capacitance
+  - Calculate the energy stored in a capacitor
 ---
-
-## 🎯 Objectives
-
-* Describe what capacitance is and how it relates to charge and voltage
-* Calculate the electric fields inside of a parallel plate capacitor
-* Describe the effect of a dielectric material on capacitance
-* Calculate the energy stored in a capacitor
 
 ## 📋 Sequence
 

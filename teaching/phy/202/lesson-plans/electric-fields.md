@@ -4,13 +4,11 @@ title: Electric Fields
 topics:
   - Electric field
   - Motion of a point charge in an electric field
+objectives:
+  - Describe the electric field around different charge configurations
+  - Calculate the electric force on a point charge due to an electric field
+  - Determine the motion of an point charge within a uniform electric field
 ---
-
-## 🎯 Objectives
-
-* Describe the electric field around different charge configurations
-* Calculate the electric force on a point charge due to an electric field
-* Determine the motion of an point charge within a uniform electric field
 
 ## 📋 Sequence
 

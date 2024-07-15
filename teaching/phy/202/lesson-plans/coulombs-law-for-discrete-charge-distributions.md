@@ -5,13 +5,11 @@ topics:
   - Electric charge
   - Coulomb's law
   - Superposition
+objectives:
+  - Describe the two types of electric charge
+  - Calculate the forces on point charges using Coulomb's law
+  - Utilize superposition to calculate the net force from multiple point charges
 ---
-
-## 🎯 Objectives
-
-* Describe the two types of electric charge
-* Calculate the forces on point charges using Coulomb's law
-* Utilize superposition to calculate the net force from multiple point charges
 
 ## 📋 Sequence
 

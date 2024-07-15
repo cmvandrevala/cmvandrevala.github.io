@@ -6,16 +6,14 @@ topics:
   - Review of trigonometry
   - Review of vectors
   - Review of calculus
+objectives:
+  - Be able to draw and utilize a right-handed coordinate system
+  - Calculate the side lengths of a right triangle using the Pythagorean theorem
+  - Calculate the angles around a right triangle using sine, cosine, and tangent
+  - Perform basic operations on vectors (addition, subtraction, scalar multiplication, etc.)
+  - Calculate dot and cross products of vectors
+  - Calculate the derivative and integral of commonly used functions (polynomials, exponentials, logarithms, trigonometry)
 ---
-
-## 🎯 Objectives
-
-* Be able to draw and utilize a right-handed coordinate system
-* Calculate the side lengths of a right triangle using the Pythagorean theorem
-* Calculate the angles around a right triangle using sine, cosine, and tangent
-* Perform basic operations on vectors (addition, subtraction, scalar multiplication, etc.)
-* Calculate dot and cross products of vectors
-* Calculate the derivative and integral of commonly used functions (polynomials, exponentials, logarithms, trigonometry)
 
 ## 📋 Sequence
 

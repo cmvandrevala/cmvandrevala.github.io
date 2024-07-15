@@ -7,16 +7,14 @@ topics:
   - Significant figures
   - Review of trigonometry
   - Review of vectors
+objectives:
+  - Perform dimensional analysis on the base units in SI
+  - Perform calculations with the correct number of significant figures
+  - Calculate the side lengths of a right triangle using the Pythagorean theorem
+  - Calculate the angles around a right triangle using sine, cosine, and tangent
+  - Perform basic operations on vectors (addition, subtraction, scalar multiplication, etc.)
+  - Calculate dot and cross products of vectors
 ---
-
-## 🎯 Objectives
-
-* Perform dimensional analysis on the base units in SI
-* Perform calculations with the correct number of significant figures
-* Calculate the side lengths of a right triangle using the Pythagorean theorem
-* Calculate the angles around a right triangle using sine, cosine, and tangent
-* Perform basic operations on vectors (addition, subtraction, scalar multiplication, etc.)
-* Calculate dot and cross products of vectors
 
 ## 📋 Sequence
 

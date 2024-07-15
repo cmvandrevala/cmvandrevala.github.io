@@ -2,17 +2,15 @@
 layout: lesson-plan
 title: Maxwell's Equations
 topics:
-- Displacement current
-- Maxwell's equations
-- Electromagnetic waves
+  - Displacement current
+  - Maxwell's equations
+  - Electromagnetic waves
+objectives:
+  - Explain Maxwell's contributions to electromagnetic theory
+  - Explain why displacement current is a necessary addition to Ampere's law
+  - Compile Maxwell's four equations
+  - Describe some of the uses of Maxwell's equations in electromagnetic theory
 ---
-
-## 🎯 Objectives
-
-* Explain Maxwell's contributions to electromagnetic theory
-* Explain why displacement current is a necessary addition to Ampere's law
-* Compile Maxwell's four equations
-* Describe some of the uses of Maxwell's equations in electromagnetic theory
 
 ## 📋 Sequence
 

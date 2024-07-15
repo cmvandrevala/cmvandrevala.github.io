@@ -7,13 +7,11 @@ topics:
   - Dipole antennae
   - Speed of light
   - Index of refraction
+objectives:
+  - Calculate some of the basic properties of electromagnetic waves including wavelength, frequency, and wavenumber
+  - Describe the motion of waves emitted from a dipole antenna
+  - Calculate the speed of light in a material
 ---
-
-## 🎯 Objectives
-
-* Calculate some of the basic properties of electromagnetic waves including wavelength, frequency, and wavenumber
-* Describe the motion of waves emitted from a dipole antenna
-* Calculate the speed of light in a material
 
 ## 📋 Sequence
 

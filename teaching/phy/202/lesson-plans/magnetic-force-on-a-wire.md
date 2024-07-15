@@ -4,13 +4,11 @@ title: Magnetic Force on a Wire
 topics:
   - Magnetic force on a current-carrying wire
   - Torque on a current-carrying loop
+objectives:
+  - Solve for the magnetic forces acting on a current-carrying wire in a magnetic field
+  - Solve for the direction of the forces on a current-carrying wire in a magnetic field using the right-hand rules
+  - Analyze the torque on a square loop of wire in a magnetic field
 ---
-
-## 🎯 Objectives
-
-* Solve for the magnetic forces acting on a current-carrying wire in a magnetic field
-* Solve for the direction of the forces on a current-carrying wire in a magnetic field using the right-hand rules
-* Analyze the torque on a square loop of wire in a magnetic field
 
 ## 📋 Sequence
 

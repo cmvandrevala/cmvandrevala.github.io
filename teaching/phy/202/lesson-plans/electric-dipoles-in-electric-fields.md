@@ -7,14 +7,12 @@ topics:
   - Dipole moments
   - Torque on a dipole
   - Potential energy of a dipole
+objectives:
+  - Compare and contrast the motion of a charged particle in an electric field versus an electric dipole in an electric field
+  - Define the electric dipole moment
+  - Calculate the torque on a dipole in an electric field, oriented in different directions
+  - Calculate the potential energy of a dipole in an electric field, oriented in different directions
 ---
-
-## 🎯 Objectives
-
-* Compare and contrast the motion of a charged particle in an electric field versus an electric dipole in an electric field
-* Define the electric dipole moment
-* Calculate the torque on a dipole in an electric field, oriented in different directions
-* Calculate the potential energy of a dipole in an electric field, oriented in different directions
 
 ## 📋 Sequence
 

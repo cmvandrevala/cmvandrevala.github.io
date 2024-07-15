@@ -6,13 +6,11 @@ topics:
   - Velocity vs. Time Graphs
   - Acceleration vs. Time Graphs
   - Newton's Second Law
+objectives:
+  - Draw position, velocity, and acceleration vs. time graphs for a variety of physical situations
+  - Use position, velocity, acceleration, time, and initial conditions to fully analyze the motion of a system
+  - Apply Newton's Second Law to free body diagrams in order to calculate the acceleration of the body
 ---
-
-## 🎯 Objectives
-
-* Draw position, velocity, and acceleration vs. time graphs for a variety of physical situations
-* Use position, velocity, acceleration, time, and initial conditions to fully analyze the motion of a system
-* Apply Newton's Second Law to free body diagrams in order to calculate the acceleration of the body
 
 ## 📋 Sequence
 

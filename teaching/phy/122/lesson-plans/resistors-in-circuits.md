@@ -8,14 +8,12 @@ topics:
   - Resistivity
   - Resistors in series
   - Resistors in parallel
+objectives:
+  - Calculate the current and voltage across an ideal resistor connected to an ideal battery
+  - Calculate the power dissipated in a resistor that has some constant current flowing through it
+  - Calculate the resistance of a resistor given its geometric properties and material resistivity
+  - Calculate the equivalent resistance of many resistors in a circuit
 ---
-
-## 🎯 Objectives
-
-* Calculate the current and voltage across an ideal resistor connected to an ideal battery
-* Calculate the power dissipated in a resistor that has some constant current flowing through it
-* Calculate the resistance of a resistor given its geometric properties and material resistivity
-* Calculate the equivalent resistance of many resistors in a circuit
 
 ## 📋 Sequence
 

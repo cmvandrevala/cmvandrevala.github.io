@@ -6,14 +6,12 @@ topics:
   - Relationship between electric field and electric potential
   - Electric potential due to discrete charge distributions
   - Electric potential due to continuous charge distributions
+objectives:
+  - Calculate the electric potential some distance away from a point charge
+  - Determine the orientation of electric field lines in relation to equipotential surfaces
+  - Determine how the density of equipotential lines affects the strength of the electric field
+  - Explain how electric potential lines are similar to a topographical map
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric potential some distance away from a point charge
-* Determine the orientation of electric field lines in relation to equipotential surfaces
-* Determine how the density of equipotential lines affects the strength of the electric field
-* Explain how electric potential lines are similar to a topographical map
 
 ## 📋 Sequence
 

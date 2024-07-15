@@ -3,14 +3,12 @@ layout: lesson-plan
 title: RC Circuits
 topics:
   - Simple RC circuits
+objectives:
+  - Calculate the charge on a capacitor as a function of time in a simple charging RC circuit
+  - Calculate the charge on a capacitor as a function of time in a simple discharging RC circuit
+  - Calculate the current as a function of time in a simple charging RC circuit
+  - Calculate the current as a function of time in a simple discharging RC circuit
 ---
-
-## 🎯 Objectives
-
-* Calculate the charge on a capacitor as a function of time in a simple charging RC circuit
-* Calculate the charge on a capacitor as a function of time in a simple discharging RC circuit
-* Calculate the current as a function of time in a simple charging RC circuit
-* Calculate the current as a function of time in a simple discharging RC circuit
 
 ## 📋 Sequence
 

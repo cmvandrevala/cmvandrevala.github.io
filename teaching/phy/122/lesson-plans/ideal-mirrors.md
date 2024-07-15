@@ -4,12 +4,10 @@ title: Ideal Mirrors
 topics:
   - "Optics terminology: magnification, radius of curvature, focal length, etc."
   - Ideal mirrors
+objectives:
+  - Describing the properties of an ideal mirror
+  - Calculate the properties of images formed by an ideal mirror
 ---
-
-## 🎯 Objectives
-
-* Describing the properties of an ideal mirror
-* Calculate the properties of images formed by an ideal mirror
 
 ## 📋 Sequence
 

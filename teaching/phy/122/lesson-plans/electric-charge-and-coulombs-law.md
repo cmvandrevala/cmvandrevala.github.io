@@ -6,14 +6,12 @@ topics:
   - Conductors and insulators
   - Charging objects
   - Coulomb's law
+objectives:
+  - Describe the two types of electric charge
+  - Describe the behavior of electric charges in conductors and insulators
+  - Describe different ways of charging and discharging objects
+  - Calculate the forces on point charges using Coulomb's law
 ---
-
-## 🎯 Objectives
-
-* Describe the two types of electric charge
-* Describe the behavior of electric charges in conductors and insulators
-* Describe different ways of charging and discharging objects
-* Calculate the forces on point charges using Coulomb's law
 
 ## 📋 Sequence
 

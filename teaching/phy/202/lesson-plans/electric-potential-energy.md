@@ -5,13 +5,11 @@ topics:
   - Definition of electric potential energy
   - Conservation of energy with electric potential energy
   - Conversions between electric force, field, potential, and potential energy
+objectives:
+  - Calculate the electric potential energy between two point charges
+  - Calculate the electric potential energy of a system of point charges
+  - Use conservation of energy to convert electric potential energy to kinetic energy
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric potential energy between two point charges
-* Calculate the electric potential energy of a system of point charges
-* Use conservation of energy to convert electric potential energy to kinetic energy
 
 ## 📋 Sequence
 

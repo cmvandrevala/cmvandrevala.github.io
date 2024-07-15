@@ -5,13 +5,11 @@ topics:
   - Magnets
   - Magnetic Fields
   - Magnetic Force on Charged Particles
+objectives:
+  - Describe the properties of a magnetic field around a bar magnet
+  - Calculate the magnetic force on a moving charged particle
+  - Calculate the direction of the magnetic force on a charged particle using the right hand rules
 ---
-
-## 🎯 Objectives
-
-* Describe the properties of a magnetic field around a bar magnet
-* Calculate the magnetic force on a moving charged particle
-* Calculate the direction of the magnetic force on a charged particle using the right hand rules
 
 ## 📋 Sequence
 

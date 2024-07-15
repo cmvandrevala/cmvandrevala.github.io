@@ -5,15 +5,13 @@ topics:
   - Definition of electric potential
   - Comparison of electric potential to electric potential energy
   - Relation of electric potential to electric field
+objectives:
+  - Calculate the electric potential some distance away from a point charge
+  - Calculate the electric potential energy stored in a charge configuration from a given electric potential
+  - Determine the orientation of electric field lines in relation to equipotential surfaces
+  - Determine how the density of equipotential lines affects the strength of the electric field
+  - Explain how electric potential lines are similar to a topographical map
 ---
-
-## 🎯 Objectives
-
-* Calculate the electric potential some distance away from a point charge
-* Calculate the electric potential energy stored in a charge configuration from a given electric potential
-* Determine the orientation of electric field lines in relation to equipotential surfaces
-* Determine how the density of equipotential lines affects the strength of the electric field
-* Explain how electric potential lines are similar to a topographical map
 
 ## 📋 Sequence
 
