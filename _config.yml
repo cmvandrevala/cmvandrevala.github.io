@@ -19,6 +19,7 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 header_pages:
   - index.md
