@@ -51,6 +51,12 @@ semester: Spring 2024
 | [A Stack of Dishes]({{ "/teaching/csc/122/labs/a-stack-of-dishes.html" | absolute_url }}) | 3 | April 21, 2024 |
 | [A Mighty Oak Tree]({{ "/teaching/csc/122/labs/a-mighty-oak-tree.html" | absolute_url }}) | 3 | April 28, 2024 |
 
+## In-Class Activities
+
+| Activity Name | Date |
+| ------------- | ---- |
+| [LRU Cache]({{ "/teaching/csc/122/activities/lru-cache.html" | absolute_url }}) | April 23, 2024 |
+
 ## Portfolio Assignments
 
 | Name | Portfolio |
