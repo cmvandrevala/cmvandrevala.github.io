@@ -15,3 +15,4 @@ semester: Spring 2023
 | [Rotational Motion]({{ "/teaching/phy/121/lesson-plans/rotational-motion.html" | absolute_url }}) | February 28, 2023 |
 | [Potential Energy]({{ "/teaching/phy/121/lesson-plans/potential-energy.html" | absolute_url }}) | March 9, 2023 |
 | [Simple Harmonic Motion]({{ "/teaching/phy/121/lesson-plans/simple-harmonic-motion.html" | absolute_url }}) | April 11, 2023 |
+| [Waves]({{ "/teaching/phy/121/lesson-plans/waves.html" | absolute_url }}) | April 27, 2023 |
