@@ -14,7 +14,7 @@ semester: Spring 2024
 
 | Lab | Portfolio | Due Date |
 | --- | --------- | -------- |
-| [Hello World!]({{ "/teaching/csc/shared-labs/hello-world.html" | absolute_url }}) | N/A | N/A |
+| [Hello World!]({{ "/teaching/csc/shared/labs/hello-world.html" | absolute_url }}) | N/A | N/A |
 | [Resistance is Everything]({{ "/teaching/csc/121/labs/resistance-is-everything.html" | absolute_url }}) | 1 | February 18, 2024 |
 | [A Terribly Weighty Subject]({{ "/teaching/csc/121/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | February 25, 2024 |
 | [Point to Point]({{ "/teaching/csc/121/labs/point-to-point.html" | absolute_url }}) | 1 | February 25, 2024 |
@@ -32,7 +32,7 @@ semester: Spring 2024
 | [For the Nth Time]({{ "/teaching/csc/121/labs/for-the-nth-time.html" | absolute_url }}) | 2 | April 7, 2024 |
 | [What a Complex Problem]({{ "/teaching/csc/121/labs/what-a-complex-problem.html" | absolute_url }}) | 3 | April 14, 2024 |
 | [Tic-Tac-Toe Board]({{ "/teaching/csc/121/labs/tic-tac-toe-board.html" | absolute_url }}) | 3 | April 28, 2024 |
-| [It's Raining Strings]({{ "/teaching/csc/shared-labs/its-raining-strings.html" | absolute_url }}) | 3 | April 28, 2024 |
+| [It's Raining Strings]({{ "/teaching/csc/shared/labs/its-raining-strings.html" | absolute_url }}) | 3 | April 28, 2024 |
 | [Oops! I Didn't Mean That]({{ "/teaching/csc/121/labs/oops-i-didnt-mean-that.html" | absolute_url }}) | 3 | April 28, 2024 |
 
 ## In-Class Activities

@@ -121,7 +121,7 @@ Update your stack class to allow the user to specify what type of object will be
 
 ### (Four Credits) Stack on a Linked List
 
-In the lab [Links in a Chain]({{ "/teaching/csc/shared-labs/links-in-a-chain.html" | absolute_url }}), you implemented a linked list data structure. Replace the array data structure in your stack implementation with the linked list that you created in the other lab. You might need to create one or two helper methods on your linked list class to support pushing and popping data on a stack.
+In the lab [Links in a Chain]({{ "/teaching/csc/122/labs/links-in-a-chain.html" | absolute_url }}), you implemented a linked list data structure. Replace the array data structure in your stack implementation with the linked list that you created in the other lab. You might need to create one or two helper methods on your linked list class to support pushing and popping data on a stack.
 
 The behavior of the stack should not change whether you use an array or linked list under the hood.
 
