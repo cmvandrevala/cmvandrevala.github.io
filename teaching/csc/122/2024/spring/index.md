@@ -55,6 +55,7 @@ semester: Spring 2024
 
 | Activity Name | Date |
 | ------------- | ---- |
+| [State Machine]({{ "/teaching/csc/122/activities/state-machine.html" | absolute_url }}) | April 9, 2024 |
 | [LRU Cache]({{ "/teaching/csc/122/activities/lru-cache.html" | absolute_url }}) | April 23, 2024 |
 
 ## Portfolio Assignments
