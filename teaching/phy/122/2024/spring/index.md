@@ -31,7 +31,7 @@ semester: Spring 2024
 | [Electromagnetic Waves]({{ "/teaching/phy/122/lesson-plans/electromagnetic-waves.html" | absolute_url }}) | March 19, 2024 |
 | [Polarization]({{ "/teaching/phy/122/lesson-plans/polarization.html" | absolute_url }}) | April 1, 2024 |
 | [Reflection and Refraction]({{ "/teaching/phy/122/lesson-plans/reflection-and-refraction.html" | absolute_url }}) | April 1 - 2, 2024 |
-| [Ideal Mirrors]({{ "/teaching/phy/122/lesson-plans/ideal-mirrors.html" | absolute_url }}) | April 3, 2024 |
+| [Ideal Mirrors]({{ "/teaching/phy/shared/lesson-plans/ideal-mirrors.html" | absolute_url }}) | April 3, 2024 |
 
 ## Past Exams
 

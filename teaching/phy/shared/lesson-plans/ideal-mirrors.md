@@ -2,10 +2,12 @@
 layout: lesson-plan
 title: Ideal Mirrors
 topics:
-  - "Optics terminology: magnification, radius of curvature, focal length, etc."
   - Ideal mirrors
+  - Focal length and radius of curvature
+  - Object distance and image distance
+  - Magnification
 objectives:
-  - Describing the properties of an ideal mirror
+  - Describe the properties of an ideal mirror
   - Calculate the properties of images formed by an ideal mirror
 ---
 
@@ -38,4 +40,6 @@ For each of the problems below, sketch out a ray diagram of the system before do
 
 ## 📘 Connected Resources
 
+* {% reference kurmiIdealMirrorSimulator2022 %}
 * {% reference giambattistaCollegePhysicsIntegrated2020 %}
+* {% reference tiplerPhysicsScientistsEngineers2008 %}
