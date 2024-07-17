@@ -18,9 +18,9 @@ semester: Fall 2023
 | [Error Analysis]({{ "/teaching/phy/shared/lesson-plans/error-analysis.html" | absolute_url }}) | |
 | [Electric Potential]({{ "/teaching/phy/122/lesson-plans/electric-potential.html" | absolute_url }}) |  |
 | [Capacitors and Dielectrics]({{ "/teaching/phy/122/lesson-plans/capacitors-and-dielectrics.html" | absolute_url }}) |  |
-| [Capacitors in Circuits]({{ "/teaching/phy/122/lesson-plans/capacitors-in-circuits.html" | absolute_url }}) |  |
-| [Resistors in Circuits]({{ "/teaching/phy/122/lesson-plans/resistors-in-circuits.html" | absolute_url }}) |  |
-| [Kirchhoff's Rules]({{ "/teaching/phy/122/lesson-plans/kirchhoffs-rules.html" | absolute_url }}) |  |
+| [Capacitors in Circuits]({{ "/teaching/phy/122/lesson-plans/capacitors-in-circuits.html" | absolute_url }}) | September 12, 2023 |
+| [Resistors in Circuits]({{ "/teaching/phy/122/lesson-plans/resistors-in-circuits.html" | absolute_url }}) | September 12, 2023 |
+| [Kirchhoff's Rules]({{ "/teaching/phy/122/lesson-plans/kirchhoffs-rules.html" | absolute_url }}) | September 14, 2023 |
 | [RC Circuits]({{ "/teaching/phy/122/lesson-plans/rc-circuits.html" | absolute_url }}) |  |
 | [Introduction to Magnetism]({{ "/teaching/phy/122/lesson-plans/introduction-to-magnetism.html" | absolute_url }}) |  |
 | [Applications of Magnetic Force on a Point Charge]({{ "/teaching/phy/122/lesson-plans/applications-of-magnetic-force-on-a-point-charge.html" | absolute_url }}) | September 28, 2023 |
