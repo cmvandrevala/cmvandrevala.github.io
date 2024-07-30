@@ -9,13 +9,13 @@ semester: Fall 2023
 
 | Name | Date |
 | --- | --------- |
-| [Math Review]({{ "/teaching/phy/122/lesson-plans/math-review.html" | absolute_url }}) |  |
-| [Electric Charge and Coulomb's Law]({{ "/teaching/phy/122/lesson-plans/electric-charge-and-coulombs-law.html" | absolute_url }}) |  |
-| [Linearization]({{ "/teaching/phy/shared/lesson-plans/linearization.html" | absolute_url }}) |  |
-| [Electric Fields]({{ "/teaching/phy/122/lesson-plans/electric-fields.html" | absolute_url }}) |  |
-| [Gauss' Law]({{ "/teaching/phy/122/lesson-plans/gauss-law.html" | absolute_url }}) | |
-| [Electric Potential Energy]({{ "/teaching/phy/122/lesson-plans/electric-potential-energy.html" | absolute_url }}) | |
-| [Error Analysis]({{ "/teaching/phy/shared/lesson-plans/error-analysis.html" | absolute_url }}) | |
+| [Math Review]({{ "/teaching/phy/122/lesson-plans/math-review.html" | absolute_url }}) | August 22, 2023 |
+| [Electric Charge and Coulomb's Law]({{ "/teaching/phy/122/lesson-plans/electric-charge-and-coulombs-law.html" | absolute_url }}) | August 24, 2023 |
+| [Linearization]({{ "/teaching/phy/shared/lesson-plans/linearization.html" | absolute_url }}) | August 24, 2023 |
+| [Electric Fields]({{ "/teaching/phy/122/lesson-plans/electric-fields.html" | absolute_url }}) | August 29, 2023 |
+| [Gauss' Law]({{ "/teaching/phy/122/lesson-plans/gauss-law.html" | absolute_url }}) | August 29, 2023 |
+| [Electric Potential Energy]({{ "/teaching/phy/122/lesson-plans/electric-potential-energy.html" | absolute_url }}) | August 29, 2023 |
+| [Error Analysis]({{ "/teaching/phy/shared/lesson-plans/error-analysis.html" | absolute_url }}) | August 29, 2023 |
 | [Electric Potential]({{ "/teaching/phy/122/lesson-plans/electric-potential.html" | absolute_url }}) |  |
 | [Capacitors and Dielectrics]({{ "/teaching/phy/122/lesson-plans/capacitors-and-dielectrics.html" | absolute_url }}) |  |
 | [Capacitors in Circuits]({{ "/teaching/phy/122/lesson-plans/capacitors-in-circuits.html" | absolute_url }}) | September 12, 2023 |
