@@ -27,6 +27,7 @@ semester: Fall 2023
 | [Magnetic Force on a Wire]({{ "/teaching/phy/122/lesson-plans/magnetic-force-on-a-wire.html" | absolute_url }}) | September 28, 2023 |
 | [Gauss' Law for Magnetic Fields]({{ "/teaching/phy/122/lesson-plans/gauss-law-for-magnetic-fields.html" | absolute_url }}) | October 3, 2023 |
 | [Faraday's Law of Induction]({{ "/teaching/phy/122/lesson-plans/faradays-law-of-induction.html" | absolute_url }}) | October 3, 2023 |
+| [AC Circuits]({{ "/teaching/phy/122/lesson-plans/ac-circuits.html" | absolute_url }}) | October 17, 2023 |
 | [Maxwell's Equations]({{ "/teaching/phy/122/lesson-plans/maxwells-equations.html" | absolute_url }}) | October 26, 2023 |
 | [Electromagnetic Waves]({{ "/teaching/phy/122/lesson-plans/electromagnetic-waves.html" | absolute_url }}) | October 26, 2023 |
 | [Polarization]({{ "/teaching/phy/122/lesson-plans/polarization.html" | absolute_url }}) | October 26, 2023 |

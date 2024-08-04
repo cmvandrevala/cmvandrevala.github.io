@@ -27,6 +27,7 @@ semester: Spring 2024
 | [Magnetic Force on a Wire]({{ "/teaching/phy/122/lesson-plans/magnetic-force-on-a-wire.html" | absolute_url }}) | February 27, 2024 |
 | [Gauss' Law for Magnetic Fields]({{ "/teaching/phy/122/lesson-plans/gauss-law-for-magnetic-fields.html" | absolute_url }}) | February 28, 2024 |
 | [Faraday's Law of Induction]({{ "/teaching/phy/122/lesson-plans/faradays-law-of-induction.html" | absolute_url }}) | February 29, 2024 |
+| [AC Circuits]({{ "/teaching/phy/122/lesson-plans/ac-circuits.html" | absolute_url }}) | March 5, 2024 |
 | [Maxwell's Equations]({{ "/teaching/phy/122/lesson-plans/maxwells-equations.html" | absolute_url }}) | March 19, 2024 |
 | [Electromagnetic Waves]({{ "/teaching/phy/122/lesson-plans/electromagnetic-waves.html" | absolute_url }}) | March 19, 2024 |
 | [Relativistic Doppler Effect]({{ "/teaching/phy/122/lesson-plans/relativistic-doppler-effect.html" | absolute_url }}) | March 21, 2024 |
