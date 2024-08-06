@@ -14,4 +14,4 @@ semester: Fall 2024
 
 | Lab | Portfolio | GitHub Classroom Link | Due Date |
 | --- | --------- | -------- |
-| [Hello World!]({{ "/teaching/csc/214/labs/hello-world.html" | absolute_url }}) | N/A | | N/A |
+| [Hello World!]({{ "/teaching/csc/214/labs/hello-world.html" | absolute_url }}) | N/A | [Link](https://classroom.github.com/a/DiWrfiNk) | August 25, 2024 |
