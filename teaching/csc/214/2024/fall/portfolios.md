@@ -44,7 +44,7 @@ Extra credit is an opportunity to explore topics in computer science / programmi
 Some ideas for extra credit include (but are not limited to):
 
 * Write a one page paper on a major figure in computer science
-* Repeat one of the lab assignments with a programming language other than C++
+* Repeat one of the lab assignments with a programming language other than Java
 * Write the code for a famous / useful algorithm
 * Work on a personal software project that you find meaningful
 * Complete additional add-on credits, over the minimum requirement of ten
