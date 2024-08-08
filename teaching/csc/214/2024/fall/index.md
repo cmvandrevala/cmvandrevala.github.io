@@ -15,3 +15,4 @@ semester: Fall 2024
 | Lab | Portfolio | GitHub Classroom Link | Due Date |
 | --- | --------- | -------- |
 | [Hello World!]({{ "/teaching/csc/214/labs/hello-world.html" | absolute_url }}) | N/A | [Link](https://classroom.github.com/a/DiWrfiNk) | August 25, 2024 |
+| [A Terribly Weighty Subject]({{ "/teaching/csc/214/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | [Link](https://classroom.github.com/a/T0qStwGW) | August 25, 2024 |
