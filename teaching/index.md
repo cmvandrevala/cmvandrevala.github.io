@@ -3,19 +3,19 @@ layout: page
 title: Teaching
 ---
 
-## Computer Science
+## Current Courses
+
+| Course Number | Semester | Year |
+| ------------- | -------- | ---- |
+| [CSC 122]({{ "/teaching/csc/122/2024/fall/index.html" | absolute_url }}) | Fall | 2024 |
+| [CSC 214]({{ "/teaching/csc/214/2024/fall/index.html" | absolute_url }}) | Fall | 2024 |
+
+## Archived Courses
 
 | Course Number | Semester | Year |
 | ------------- | -------- | ---- |
 | [CSC 121]({{ "/teaching/csc/121/2024/spring/index.html" | absolute_url }}) | Spring | 2024 |
 | [CSC 122]({{ "/teaching/csc/122/2024/spring/index.html" | absolute_url }}) | Spring | 2024 |
-| [CSC 122]({{ "/teaching/csc/122/2024/fall/index.html" | absolute_url }}) | Fall | 2024 |
-| [CSC 214]({{ "/teaching/csc/214/2024/fall/index.html" | absolute_url }}) | Fall | 2024 |
-
-## Physics
-
-| Course Number | Semester | Year |
-| ------------- | -------- | ---- |
 | [PHY 121]({{ "/teaching/phy/121/2023/spring/index.html" | absolute_url }}) | Spring | 2023 |
 | [PHY 122]({{ "/teaching/phy/122/2023/fall/index.html" | absolute_url }}) | Fall | 2023 |
 | [PHY 122]({{ "/teaching/phy/122/2024/spring/index.html" | absolute_url }}) | Spring | 2024 |
