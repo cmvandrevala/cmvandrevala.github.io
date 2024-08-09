@@ -10,6 +10,13 @@ semester: Fall 2024
 * [Lab Grading Rubric](./lab-grading-rubric.html)
 * [Portfolios](./portfolios.html)
 
+## Lecture Notes
+
+| Lecture Name | Week |
+|--------------|------|
+| [Arithmetic and Conditionals](https://github.com/cmvandrevala/csc_122_arithmatic_and_conditionals)| 1 |
+| [Fizz Buzz](https://github.com/cmvandrevala/csc_122_fizzbuzz) | 1 |
+
 ## Lab Instructions
 
 | Lab | Portfolio | GitHub Classroom Link |
