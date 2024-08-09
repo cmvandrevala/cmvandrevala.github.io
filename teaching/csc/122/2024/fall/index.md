@@ -22,3 +22,9 @@ semester: Fall 2024
 | Lab | Portfolio | GitHub Classroom Link |
 | --- | --------- | -------- |
 | [Hello World!]({{ "/teaching/csc/shared/labs/hello-world.html" | absolute_url }}) | N/A | [Link](https://classroom.github.com/a/Z_x7VkhQ) |
+
+## In-Class Activities
+
+| Activity Name | Week |
+| ------------- | ---- |
+| [Introduction to Git and GitHub]({{ "/teaching/csc/122/activities/introduction-to-git-and-github.html" | absolute_url }}) | 1 |
