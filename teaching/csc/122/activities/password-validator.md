@@ -26,6 +26,8 @@ Use assert statements to test your code.
 
 In this activity, we will be using a strategy called "ping pong" pair programming. In this setup, two people pair with each other while sharing a computer. Partner A writes an assert statement based on the acceptance criteria outlined above. Then, partner B makes that assert statement pass with the minimal amount of code possible. Afterwards, the partners switch (partner B writes a test and partner A makes it pass). Repeat this process until the password validator function has been implemented.
 
+Think about how you might break this problem down into tiny pieces so that you can solve it effectively!
+
 ## 🖥️ Example Output
 
 N/A
