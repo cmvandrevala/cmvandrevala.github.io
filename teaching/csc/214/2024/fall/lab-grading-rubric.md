@@ -51,7 +51,8 @@ There are many things that I look for when assessing clean and organized code. F
 | Earned | Description |
 |--------|-------------|
 | 0 | The code is very difficult or impossible to follow due to the project organization or formatting choices. |
-| 1 | The code is well-organized and easy to follow. The student uses canonical Java formatting guidelines. |
+| 1 | The code has some organization and is readable with some effort. The student uses canonical Java formatting guidelines most of the time. |
+| 2 | The code is well-organized and easy to follow. The student uses canonical Java formatting guidelines. |
 
 ## Assignment-Specific Requirements
 
