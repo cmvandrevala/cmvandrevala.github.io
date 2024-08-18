@@ -5,7 +5,7 @@ course_number: CSC 121
 semester: Spring 2024
 ---
 
-The rubric for how I grade labs is presented below. Each lab is worth 50 points, with the grade broken down into four categories. Most labs follow this structure very nicely, but there will be occasional labs that do not (e.g. the [Hello World!]({{ "/teaching/csc/labs/hello-world.html" | absolute_url }}) lab). For those, I will adjust the rubric on a case-by-case basis.
+The rubric for how I grade labs is presented below. Each lab is worth 50 points, with the grade broken down into four categories. Most labs follow this structure very nicely, but there will be occasional labs that do not (e.g. the [Hello World!]({{ "/teaching/csc/shared/labs/hello-world.html" | absolute_url }}) lab). For those, I will adjust the rubric on a case-by-case basis.
 
 | Grading Item | Points | Percent |
 | ---- | ---- | ---- |
