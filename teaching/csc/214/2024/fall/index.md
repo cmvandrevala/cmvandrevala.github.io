@@ -12,9 +12,9 @@ semester: Fall 2024
 
 ## Lab Instructions
 
-| Lab | Portfolio | GitHub Classroom Link | Due Date |
+| Lab | Portfolio | Due Date |
 | --- | --------- | -------- |
-| [Hello World!]({{ "/teaching/csc/214/labs/hello-world.html" | absolute_url }}) | N/A | [Link](https://classroom.github.com/a/DiWrfiNk) | August 25, 2024 |
-| [A Terribly Weighty Subject]({{ "/teaching/csc/214/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | [Link](https://classroom.github.com/a/T0qStwGW) | August 25, 2024 |
-| [Well That's Just Prime]({{ "/teaching/csc/214/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | [Link](https://classroom.github.com/a/O1VhIlSG) | September 1, 2024 |
-| [Oops! Shall We Try Again?]({{ "/teaching/csc/214/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 | | September 1, 2024 |
+| [Hello World!]({{ "/teaching/csc/214/labs/hello-world.html" | absolute_url }}) | N/A | August 25, 2024 |
+| [A Terribly Weighty Subject]({{ "/teaching/csc/214/labs/a-terribly-weighty-subject.html" | absolute_url }}) | 1 | August 25, 2024 |
+| [Well That's Just Prime]({{ "/teaching/csc/214/labs/well-thats-just-prime.html" | absolute_url }}) | 1 | September 1, 2024 |
+| [Oops! Shall We Try Again?]({{ "/teaching/csc/214/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 | September 1, 2024 |
