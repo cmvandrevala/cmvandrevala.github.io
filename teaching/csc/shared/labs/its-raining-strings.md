@@ -91,8 +91,6 @@ Thank you for using the Business Sorting Program!
 2. How might you store multiple strings / c-strings in a single variable?
 3. How might you sort strings / c-strings?
 4. How would you access a single row of a 2D array?
-5. Can you pass a single string / c-string from an array to `strcmp`?
-6. Does your prompt accept characters or words? Is it case sensitive?
 
 ## 💼 Add-Ons For the Portfolio
 

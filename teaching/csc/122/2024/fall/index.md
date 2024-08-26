@@ -19,10 +19,12 @@ semester: Fall 2024
 
 ## Lab Instructions
 
-| Lab | Portfolio | GitHub Classroom Link |
-| --- | --------- | -------- |
-| [Hello World!]({{ "/teaching/csc/shared/labs/hello-world.html" | absolute_url }}) | N/A | [Link](https://classroom.github.com/a/Z_x7VkhQ) |
-| ["Hi" == "hi"?]({{ "/teaching/csc/122/labs/hi-equals-hi.html" | absolute_url }}) | 1 | [Link](https://classroom.github.com/a/FHvLq3KT) |
+| Lab | Portfolio |
+| --- | --------- |
+| [Hello World!]({{ "/teaching/csc/shared/labs/hello-world.html" | absolute_url }}) | N/A |
+| ["Hi" == "hi"?]({{ "/teaching/csc/122/labs/hi-equals-hi.html" | absolute_url }}) | 1 |
+| [Now Where Did I Put That?]({{ "/teaching/csc/122/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 |
+| [It's Raining Strings]({{ "/teaching/csc/shared/labs/its-raining-strings.html" | absolute_url }}) | 1 |
 
 ## In-Class Activities
 
