@@ -16,6 +16,8 @@ semester: Fall 2024
 |--------------|------|
 | [Arithmetic and Conditionals](https://github.com/cmvandrevala/csc_122_arithmatic_and_conditionals)| 1 |
 | [Fizz Buzz](https://github.com/cmvandrevala/csc_122_fizzbuzz) | 1 |
+| [Pet Grooming Example](https://github.com/cmvandrevala/csc_122_pet_grooming) | 2 |
+| [Dynamic Memory Allocation]({{ "/assets/pdf/dynamic_memory_allocation.pdf" | absolute_url }}) | 3 |
 
 ## Lab Instructions
 
