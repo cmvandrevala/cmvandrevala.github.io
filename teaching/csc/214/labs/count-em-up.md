@@ -30,46 +30,49 @@ Design and code a class to represent a grocery counter. Your counter should b
 ## 📋 Dev Notes
 
 * There are many different ways that you can store the counter and overflow information in your program. Take a bit of time to think about a good strategy to store counts.
-* This counter is a prime case where it is easy and useful to test via unit tests before writing a driver program. Although not required, I highly recommend you make use of unit tests while developing this class.
+* This counter is a prime case where it is easy and useful to test via unit tests before writing a driver program. Make good use of unit tests while developing this class.
 
 ## 🖥️ Example Output
 
 A driver function might display the following behavior when utilizing your `GroceryCounter` class:
 
-```cpp
-GroceryCounter counter;
+```java
+GroceryCounter counter = new GroceryCounter();
+
+System.out.println(counter.total()); // This would print out $0.00
+
 counter.tens();
 counter.tens();
 counter.hundreths();
 
-cout << counter.total() << endl; // This would print out $20.01
-cout << counter.number_of_overflows() << endl; // This would print out 0
+System.out.println(counter.total()); // This would print out $20.01
+System.out.println(counter.number_of_overflows()); // This would print out 0
 
 for(int i = 0; i < 35; i++) {
   counter.ones();
 }
 
-cout << counter.total() << endl; // This would print out $55.01
-cout << counter.number_of_overflows() << endl; // This would print out 0
+System.out.println(counter.total()); // This would print out $55.01
+System.out.println(counter.number_of_overflows()); // This would print out 0
 
 for(int i = 0; i < 100; i++) {
   counter.ones();
 }
 
-cout << counter.total() << endl; // This would print out $55.02
-cout << counter.number_of_overflows() << endl; // This would print out 1
+System.out.println(counter.total()); // This would print out $55.02
+System.out.println(counter.number_of_overflows()); // This would print out 1
 
 counter.clear();
 
-cout << counter.total() << endl; // This would print out $0.00
-cout << counter.number_of_overflows() << endl; // This would print out 0
+System.out.println(counter.total()); // This would print out $0.00
+System.out.println(counter.number_of_overflows()); // This would print out 0
 ```
 
 ## 📝 Thought Provoking Questions
 
 1. What strategy did you use to store the counted digits and the number of overflows?
 2. What strategy did you use to test the counted digits and the number of overflows?
-3. Why is the `GroceryCounter` class so easy to unit test while the `GameLoop` class from tic-tac-toe so difficult?
+3. Why do you think the `GroceryCounter` class in this lab relatively easy to unit test while the `Menu` class from the ["Oops! Shall We Try Again?"]({{ "/teaching/csc/214/labs/oops-shall-we-try-again.html" | absolute_url }}) lab so difficult?
 
 ## 💼 Add-Ons For the Portfolio
 
@@ -83,7 +86,7 @@ Update the constructor for the `GroceryCounter` class to take in a customized ma
 
 ### (Two Credits) Decrement Values
 
-Update the `GroceryCounter` class with four new methods: `decrement_tens()`, `decrement_ones()`, `decrement_tenths()`, and `decrement_hundreths()`. These four methods should decrement the associated digit by one. Be sure to correctly handle the underflow edge case where a number is decremented from zero.
+Update the `GroceryCounter` class with four new methods: `decrementTens()`, `decrementOnes()`, `decrementTenths()`, and `decrementHundreths()`. These four methods should decrement the associated digit by one. Be sure to correctly handle the underflow edge case where a number is decremented from zero.
 
 ## 📘 Works Cited
 
