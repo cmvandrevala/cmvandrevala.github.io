@@ -28,6 +28,7 @@ semester: Fall 2024
 | ["Hi" == "hi"?]({{ "/teaching/csc/122/labs/hi-equals-hi.html" | absolute_url }}) | 1 |
 | [Now Where Did I Put That?]({{ "/teaching/csc/122/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 |
 | [It's Raining Strings]({{ "/teaching/csc/shared/labs/its-raining-strings.html" | absolute_url }}) | 1 |
+| [Oops! Shall We Try Again?]({{ "/teaching/csc/122/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 |
 
 ## In-Class Activities
 

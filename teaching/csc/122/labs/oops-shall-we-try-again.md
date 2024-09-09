@@ -87,11 +87,10 @@ The value chosen by the user is 45
 
 ## 📝 Thought Provoking Questions
 
-1. How might you pass a prompt or error message to a function as an argument?
-2. How might you pass a string to a function? Will the strings be altered during the execution of the function?
-3. How might you pass a list of values to a function? Will the elements of the list be altered during the execution of the function?
-4. What type of value is returned by your function?
-5. What care does a caller of your function have to take with the return value? Specifically, can they immediately assume it is a valid entry? Why or why not?
+1. Why might it be difficult to test this particular function using automated tests (note: there are more advanced strategies for testing this function using automated tests which we may or may not see later in the semester).
+2. What arguments did you choose to pass into your function? Why?
+3. What type of value is returned by your function? Why?
+4. Are there any edge cases that you can think of that might make your program crash? What might they be?
 
 ## 💼 Add-Ons For the Portfolio
 
