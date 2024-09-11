@@ -19,6 +19,7 @@ semester: Fall 2024
 | [Pet Grooming Example](https://github.com/cmvandrevala/csc_122_pet_grooming) | 2 |
 | [Dynamic Memory Allocation Slides]({{ "/assets/pdf/dynamic_memory_allocation.pdf" | absolute_url }}) | 3 |
 | [Dynamic Memory Allocation Code](https://github.com/cmvandrevala/csc_122_dynamic_memory_allocation) | 3 |
+| [Coffee Maker UML Diagrams (002)]({{ "/assets/pdf/coffee_maker_uml_diagrams.pdf" }}) | 4 |
 
 ## Lab Instructions
 
