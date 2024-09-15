@@ -21,3 +21,9 @@ semester: Fall 2024
 | [Payroll]({{ "/teaching/csc/214/labs/payroll.html" | absolute_url }}) | 1 | September 8, 2024 |
 | [Count'em Up!]({{ "/teaching/csc/214/labs/count-em-up.html" | absolute_url }}) | 1 | September 15, 2024 |
 | [When in Rome]({{ "/teaching/csc/214/labs/when-in-rome.html" | absolute_url }}) | 1 | TBD |
+
+## Portfolio Assignments
+
+| Name | Portfolio |
+| --- | --------- |
+| [Tic-Tac-Toe (Part 1)]({{ "/teaching/csc/214/portfolios/tic-tac-toe-part-1.html" | absolute_url }}) | 1 |
