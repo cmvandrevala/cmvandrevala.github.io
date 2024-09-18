@@ -33,7 +33,7 @@ Implement a human versus human game of tic-tac-toe that can be played on the com
 ## 🖥️ Example Output
 
 ```bash
-gradle run
+$ gradle run
 
  1 | 2 | 3
 -----------
