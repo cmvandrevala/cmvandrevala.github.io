@@ -88,6 +88,26 @@ Update the constructor for the `GroceryCounter` class to take in a customized ma
 
 Update the `GroceryCounter` class with four new methods: `decrementTens()`, `decrementOnes()`, `decrementTenths()`, and `decrementHundreths()`. These four methods should decrement the associated digit by one. Be sure to correctly handle the underflow edge case where a number is decremented from zero.
 
+### (Three Credits) Customized Increment
+
+Update the `GroceryCounter` class with a new method called `increment(...)`. This allows you to increment the counter by any arbitrary integer value. You can decide if the increment function takes a float, double, integer, etc. Remember, you still need to handle overflows, just like before! Your output might look something like this:
+
+```java
+GroceryCounter counter = new GroceryCounter();
+
+System.out.println(counter.total()); // This would print out $0.00
+
+counter.increment(5);
+
+System.out.println(counter.total()); // This would print out $0.05
+System.out.println(counter.number_of_overflows()); // This would print out 0
+
+counter.increment(95);
+
+System.out.println(counter.total()); // This would print out $1.00
+System.out.println(counter.number_of_overflows()); // This would print out 0
+```
+
 ## 📘 Works Cited
 
 {% bibliography --cited %}

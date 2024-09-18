@@ -74,6 +74,22 @@ factorizer.isPrime(1) // Returns false
 factorizer.isPrime(0) // Returns false
 ```
 
+### (One Credit) Is It Composite?
+
+A number is composite if it is not equal to one and it is not prime. Write a function that takes a number as an input and returns whether the number is composite or not. It might be helpful to first implement the "Is It Prime?" add-on and use it here.
+
+For example:
+
+```java
+Factorizer factorizer = new Factorizer();
+
+factorizer.isComposite(36) // Returns true
+factorizer.isComposite(12) // Returns true
+factorizer.isComposite(17) // Returns false
+factorizer.isComposite(1) // Returns false
+factorizer.isComposite(0) // Returns false
+```
+
 ### (Two Credits) Simplifying Fractions
 
 We can use prime factors to simplify fractions. For example, consider the fraction \\( 12/26 \\). We can factor the top of the fraction into \\( 12 = 2 \times 2 \times 3 \\) and the bottom of the fraction into \\( 26 = 2 \times 13 \\). Since there is a common value of \\( 2 \\) in the top and bottom, we can cancel it out and get a new fraction of \\( 6/13 \\).

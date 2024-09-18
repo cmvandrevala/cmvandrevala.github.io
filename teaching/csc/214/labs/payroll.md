@@ -77,6 +77,14 @@ It is unrealistic for every employee of the company to earn $16.78 per hour. Add
 
 The output of your program should not change otherwise.
 
+### (One Credit) Validations for Pay Rate
+
+You must first complete the add-on called "Customized Pay Rate" before you can attempt this add-on.
+
+Right now, an employee can accidentally type a negative number for the pay rate. Update your code so that if an employee types a negative number for the pay rate, it asks them to re-enter their rate of pay.
+
+The output of your program should not change otherwise.
+
 ### (One Credit) Validations for Number of Children
 
 Right now, an employee can accidentally type a negative number for the number of children. Update your code so that if an employee types a negative number for the number of children, it automatically treats the number of children as zero. Is this the best strategy? Probably not. But the employee will see zero children on their report and know something went wrong.
