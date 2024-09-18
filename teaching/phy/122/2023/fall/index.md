@@ -32,7 +32,8 @@ semester: Fall 2023
 | [Electromagnetic Waves]({{ "/teaching/phy/122/lesson-plans/electromagnetic-waves.html" | absolute_url }}) | October 26, 2023 |
 | [Polarization]({{ "/teaching/phy/122/lesson-plans/polarization.html" | absolute_url }}) | October 26, 2023 |
 | [Relativistic Doppler Effect]({{ "/teaching/phy/122/lesson-plans/relativistic-doppler-effect.html" | absolute_url }}) | October 26, 2023 |
-| [Reflection and Refraction]({{ "/teaching/phy/122/lesson-plans/reflection-and-refraction.html" | absolute_url }}) |  |
-| [Ideal Mirrors]({{ "/teaching/phy/shared/lesson-plans/ideal-mirrors.html" | absolute_url }}) | |
+| [Reflection and Refraction]({{ "/teaching/phy/122/lesson-plans/reflection-and-refraction.html" | absolute_url }}) | October 31, 2023 |
+| [Ideal Mirrors]({{ "/teaching/phy/shared/lesson-plans/ideal-mirrors.html" | absolute_url }}) | November 7, 2023 |
+| [Ideal Lenses]({{ "/teaching/phy/shared/lesson-plans/ideal-lenses.html" | absolute_url }}) | November 7, 2023 |
 | [Nuclear Radiation]({{ "/teaching/phy/122/lesson-plans/nuclear-radiation.html" | absolute_url }}) | December 5, 2023 |
 | [Half Life]({{ "/teaching/phy/122/lesson-plans/half-life.html" | absolute_url }}) | December 5, 2023|
