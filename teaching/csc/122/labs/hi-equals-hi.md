@@ -5,7 +5,7 @@ title: "\"Hi\" == \"hi\"?"
 
 ## 🔖 Background Information
 
-No additional background information is needed to complete this problem.
+The `strcmp` function in the C programming language compares two strings, character by character. If the strings are equal to each other, the function returns zero. However, if the strings are different, it returns a value greater than zero or less than zero, depending on the ASCII codes of the characters {% cite programizStrcmpStandardLibrary %}.
 
 This problem is available courtey of {% cite jamesHiHi2021 %}.
 
