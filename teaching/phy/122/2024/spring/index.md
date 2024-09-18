@@ -23,7 +23,7 @@ semester: Spring 2024
 | [Kirchhoff's Rules]({{ "/teaching/phy/122/lesson-plans/kirchhoffs-rules.html" | absolute_url }}) | February 8, 2024 |
 | [RC Circuits]({{ "/teaching/phy/122/lesson-plans/rc-circuits.html" | absolute_url }}) | February 13 - 14, 2024 |
 | [Introduction to Magnetism]({{ "/teaching/phy/122/lesson-plans/introduction-to-magnetism.html" | absolute_url }}) | February 15, 2024 |
-| [Applications of Magnetic Force on a Point Charge]({{ "/teaching/phy/122/lesson-plans/applications-of-magnetic-force-on-a-point-charge.html" | absolute_url }}) | February 20, 2024 |
+| [Magnetic Force on a Point Charge]({{ "/teaching/phy/122/lesson-plans/magnetic-force-on-a-point-charge.html" | absolute_url }}) | February 20, 2024 |
 | [Magnetic Force on a Wire]({{ "/teaching/phy/122/lesson-plans/magnetic-force-on-a-wire.html" | absolute_url }}) | February 27, 2024 |
 | [Gauss' Law for Magnetic Fields]({{ "/teaching/phy/122/lesson-plans/gauss-law-for-magnetic-fields.html" | absolute_url }}) | February 28, 2024 |
 | [Faraday's Law of Induction]({{ "/teaching/phy/122/lesson-plans/faradays-law-of-induction.html" | absolute_url }}) | February 29, 2024 |
