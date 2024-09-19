@@ -37,3 +37,12 @@ semester: Fall 2023
 | [Ideal Lenses]({{ "/teaching/phy/shared/lesson-plans/ideal-lenses.html" | absolute_url }}) | November 7, 2023 |
 | [Nuclear Radiation]({{ "/teaching/phy/122/lesson-plans/nuclear-radiation.html" | absolute_url }}) | December 5, 2023 |
 | [Half Life]({{ "/teaching/phy/122/lesson-plans/half-life.html" | absolute_url }}) | December 5, 2023|
+
+## Past Exams
+
+| Exam | Semester |
+|------|----------|
+| [Exam One (With Solutions)]({{ "/teaching/phy/122/past-exams/fall-2023-exam-1-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
+| [Exam Two (With Solutions)]({{ "/teaching/phy/122/past-exams/fall-2023-exam-2-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
+| [Exam Three (With Solutions)]({{ "/teaching/phy/122/past-exams/fall-2023-exam-3-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
+| [Final Exam (With Solutions)]( {{ "/teaching/phy/122/past-exams/fall-2023-final-exam-with-solutions.pdf" | absolute_url }}) | Fall 2023 |
