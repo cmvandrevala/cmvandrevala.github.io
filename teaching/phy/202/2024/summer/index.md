@@ -27,3 +27,4 @@ semester: Summer 2024
 | [Magnetic Force on a Wire]({{ "/teaching/phy/202/lesson-plans/magnetic-force-on-a-wire.html" | absolute_url }}) | June 13, 2024 |
 | [Ideal Mirrors]({{ "/teaching/phy/shared/lesson-plans/ideal-mirrors.html" | absolute_url }}) | July 8, 2024 |
 | [Ideal Lenses]({{ "/teaching/phy/shared/lesson-plans/ideal-lenses.html" | absolute_url }}) | July 8, 2024 |
+| [Systems of Lenses]({{ "/teaching/phy/shared/lesson-plans/systems-of-lenses.html" | absolute_url }}) | |

@@ -35,6 +35,7 @@ semester: Fall 2023
 | [Reflection and Refraction]({{ "/teaching/phy/122/lesson-plans/reflection-and-refraction.html" | absolute_url }}) | October 31, 2023 |
 | [Ideal Mirrors]({{ "/teaching/phy/shared/lesson-plans/ideal-mirrors.html" | absolute_url }}) | November 7, 2023 |
 | [Ideal Lenses]({{ "/teaching/phy/shared/lesson-plans/ideal-lenses.html" | absolute_url }}) | November 7, 2023 |
+| [Systems of Lenses]({{ "/teaching/phy/shared/lesson-plans/systems-of-lenses.html" | absolute_url }}) | November 9, 2023 |
 | [Nuclear Radiation]({{ "/teaching/phy/122/lesson-plans/nuclear-radiation.html" | absolute_url }}) | December 5, 2023 |
 | [Half Life]({{ "/teaching/phy/122/lesson-plans/half-life.html" | absolute_url }}) | December 5, 2023|
 
