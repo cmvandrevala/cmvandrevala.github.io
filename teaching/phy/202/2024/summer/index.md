@@ -28,3 +28,5 @@ semester: Summer 2024
 | [Ideal Mirrors]({{ "/teaching/phy/shared/lesson-plans/ideal-mirrors.html" | absolute_url }}) | July 8, 2024 |
 | [Ideal Lenses]({{ "/teaching/phy/shared/lesson-plans/ideal-lenses.html" | absolute_url }}) | July 8, 2024 |
 | [Systems of Lenses]({{ "/teaching/phy/shared/lesson-plans/systems-of-lenses.html" | absolute_url }}) | |
+| [Slits and Gratings]({{ "/teaching/phy/shared/lesson-plans/slits-and-gratings.html" | absolute_url }}) | |
+| [Thin Film Interference]({{ "/teaching/phy/shared/lesson-plans/thin-film-interference.html" | absolute_url }}) | |
