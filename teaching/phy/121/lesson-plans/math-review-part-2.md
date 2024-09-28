@@ -13,7 +13,6 @@ objectives:
 
 ## 📋 Sequence
 
-* Ask about homework questions
 * Wrap up any lecture topics from [Math Review: Part 1]({{ "/teaching/phy/121/lesson-plans/math-review-part-1" | absolute_url }})
 * Additional practice problems
 * Pre-lab discussion

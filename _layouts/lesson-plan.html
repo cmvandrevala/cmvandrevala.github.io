@@ -2,8 +2,12 @@
 layout: base
 ---
 
-<article class="post">
-
+<div>
+  <button id="button">
+    Download PDF
+  </button>
+</div>
+<article class="post" id="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
@@ -25,5 +29,18 @@ layout: base
 
     {{ content }}
   </div>
-
 </article>
+
+<script>
+  const btn = document.getElementById("button");
+
+  btn.addEventListener("click", function () {
+    const element = document.getElementById('post');
+    const options = {
+      margin: 10,
+      filename: "lesson.pdf",
+      pagebreak: { mode: ['css', 'avoid-all'] }
+    };
+    html2pdf().set(options).from(element).save();
+  });
+</script>
