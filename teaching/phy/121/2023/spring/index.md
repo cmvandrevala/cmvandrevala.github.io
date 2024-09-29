@@ -18,6 +18,7 @@ semester: Spring 2023
 | [Kinematics in Two Dimensions]({{ "/teaching/phy/121/lesson-plans/kinematics-in-two-dimensions.html" | absolute_url }}) | February 16, 2023 |
 | [Rotational Motion]({{ "/teaching/phy/121/lesson-plans/rotational-motion.html" | absolute_url }}) | February 28, 2023 |
 | [Potential Energy]({{ "/teaching/phy/121/lesson-plans/potential-energy.html" | absolute_url }}) | March 9, 2023 |
+| [Collisions]({{ "/teaching/phy/121/lesson-plans/collisions.html" | absolute_url }}) | March 16, 2023 |
 | [Simple Harmonic Motion]({{ "/teaching/phy/121/lesson-plans/simple-harmonic-motion.html" | absolute_url }}) | April 11, 2023 |
 | [Introduction to Waves]({{ "/teaching/phy/121/lesson-plans/introduction-to-waves.html" | absolute_url }}) | April 25, 2023 |
 | [Standing Waves]({{ "/teaching/phy/121/lesson-plans/standing-waves.html" | absolute_url }}) | April 27, 2023 |
