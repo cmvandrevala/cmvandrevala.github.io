@@ -25,7 +25,6 @@ objectives:
   * \\( F_x = -kx = ma_x \Rightarrow a_x = kx/m \\)
   * Maximum acceleration can be found when we are at the maximum amplitude
 * SHM and Circular Motion
-  * <https://www.youtube.com/watch?v=J2gpEgjy1qg>
   * \\( \theta(t) = \omega t \\)
   * \\( x(t) = A cos \theta = A cos(\omega t) \\)
   * Radial acceleration: \\( a_x = -a_r cos \theta = - \omega^2 A cos \omega t \\)
@@ -37,7 +36,6 @@ objectives:
   * Maximum speed \\( v_{max} = \sqrt{k/m}A = \omega A \\)
   * Maximum acceleration \\( a_{max} = kA/m = \omega^2 A \\)
   * You can see that \\( v_{max}^2 = a_{max} A \\)
-* Practice Problems
 * Graphs of SHM
   * Derivatives: \\( cos(x) \rightarrow -sin(x) \rightarrow -cos(x) \rightarrow sin(x) \rightarrow cos(x) \\)
   * Position vs. Time => \\( cos(\omega t) \\)
@@ -50,7 +48,7 @@ objectives:
 
 ## 🖥️ Animations, Simulations, Activities
 
-N/A
+* Simple Harmonic Motion and Uniform Circular Motion: <https://www.youtube.com/watch?v=J2gpEgjy1qg>
 
 ## 📝 Practice Problems
 

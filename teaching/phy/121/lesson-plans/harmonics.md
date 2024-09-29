@@ -1,17 +1,21 @@
 ---
 layout: lesson-plan
-title: Waves
+title: Harmonics
 topics:
-  - Waves
-  - Centripetal Force
+  - Waves on a String
+  - Waves in a Pipe
 objectives:
-  - Solve a variety of physics problems covering waves and sound
+  - Calculate the properties of waves on a string fixed at both ends
+  - Calculate the properties of waves in a half-open pipe
+  - Calculate the properties of waves in a fully open pipe
 ---
 
 ## 📋 Sequence
 
-* Waves and sound practice problems
-* Centripetal force lab (part 2)
+* Review of resonance
+* Properties of waves on a string fixed at both ends
+* Properties of waves in a half-open pipe
+* Properties of waves in a fully open pipe
 
 ## 🖥️ Animations, Simulations, Activities
 
