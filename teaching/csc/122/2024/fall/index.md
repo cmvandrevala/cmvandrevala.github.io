@@ -30,6 +30,7 @@ semester: Fall 2024
 | [Now Where Did I Put That?]({{ "/teaching/csc/122/labs/now-where-did-i-put-that.html" | absolute_url }}) | 1 |
 | [It's Raining Strings]({{ "/teaching/csc/shared/labs/its-raining-strings.html" | absolute_url }}) | 1 |
 | [Oops! Shall We Try Again?]({{ "/teaching/csc/122/labs/oops-shall-we-try-again.html" | absolute_url }}) | 1 |
+| [Slide to the Left]({{ "/teaching/csc/122/labs/slide-to-the-left.html" | absolute_url }}) | 1 |
 | [Go With the Flow]({{ "/teaching/csc/122/labs/go-with-the-flow.html" | absolute_url }}) | 2 |
 
 ## In-Class Activities
