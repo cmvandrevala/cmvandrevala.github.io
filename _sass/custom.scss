@@ -2,8 +2,12 @@
   background: transparent;
   border: none;
   margin: none;
+  vertical-align: middle;
+  padding-left: 20px;
+  cursor: pointer;
 
   :hover {
     background-color: lightblue;
+    border-radius: 5px;
   }
 }
