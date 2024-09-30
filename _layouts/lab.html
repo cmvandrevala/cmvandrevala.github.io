@@ -3,13 +3,27 @@ layout: base
 ---
 
 <article class="post">
-
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="post-title">
+      {{ page.title | escape }} {%- include download-button.html -%}
+    </h1>
   </header>
 
   <div class="post-content">
     {{ content }}
   </div>
-
 </article>
+
+<script>
+  const btn = document.getElementById("button");
+
+  btn.addEventListener("click", function () {
+    const element = document.getElementById('page-content');
+    const options = {
+      margin: 10,
+      filename: "{{ page.title }}.pdf",
+      pagebreak: { mode: ['css', 'avoid-all'] }
+    };
+    html2pdf().set(options).from(element).save();
+  });
+</script>
