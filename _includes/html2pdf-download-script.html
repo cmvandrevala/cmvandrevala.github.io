@@ -5,7 +5,7 @@
     const element = document.getElementById('page-content');
     const options = {
       margin: 10,
-      filename: "{{ page.title }}.pdf",
+      filename: "{{ page.title | downcase | remove: "_" | remove: '"' | replace: " ", "_" }}.pdf",
       pagebreak: { mode: ['css', 'avoid-all'] }
     };
     html2pdf().set(options).from(element).save();
