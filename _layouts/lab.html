@@ -14,16 +14,4 @@ layout: base
   </div>
 </article>
 
-<script>
-  const btn = document.getElementById("button");
-
-  btn.addEventListener("click", function () {
-    const element = document.getElementById('page-content');
-    const options = {
-      margin: 10,
-      filename: "{{ page.title }}.pdf",
-      pagebreak: { mode: ['css', 'avoid-all'] }
-    };
-    html2pdf().set(options).from(element).save();
-  });
-</script>
+{%- include html2pdf-download-script.html -%}
