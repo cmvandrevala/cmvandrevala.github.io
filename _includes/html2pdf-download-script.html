@@ -5,9 +5,9 @@
     const element = document.getElementById('page-content');
     const options = {
       margin: 10,
-      filename: "{{ page.title | downcase | remove: "_" | remove: '"' | replace: " ", "_" }}.pdf",
+      filename: "{{ page.title | downcase | remove: '?' | remove: '"' | replace: " ", "_" }}.pdf",
       pagebreak: { mode: ['css', 'avoid-all'] }
-    };
-    html2pdf().set(options).from(element).save();
+  };
+  html2pdf().set(options).from(element).save();
   });
 </script>
