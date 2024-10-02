@@ -38,6 +38,7 @@ semester: Fall 2023
 | [Systems of Lenses]({{ "/teaching/phy/shared/lesson-plans/systems-of-lenses.html" | absolute_url }}) | November 9, 2023 |
 | [Slits and Gratings]({{ "/teaching/phy/shared/lesson-plans/slits-and-gratings.html" | absolute_url }}) | November 14, 2023 |
 | [Thin Film Interference]({{ "/teaching/phy/shared/lesson-plans/thin-film-interference.html" | absolute_url }}) | November 14, 2023 |
+| [Foundations of Special Relativity]({{ "/teaching/phy/122/lesson-plans/foundations-of-special-relativity.html" | absolute_url }}) | November 21, 2023 |
 | [Nuclear Radiation]({{ "/teaching/phy/122/lesson-plans/nuclear-radiation.html" | absolute_url }}) | December 5, 2023 |
 | [Half Life]({{ "/teaching/phy/122/lesson-plans/half-life.html" | absolute_url }}) | December 5, 2023|
 

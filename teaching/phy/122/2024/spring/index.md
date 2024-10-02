@@ -38,6 +38,7 @@ semester: Spring 2024
 | [Systems of Lenses]({{ "/teaching/phy/shared/lesson-plans/systems-of-lenses.html" | absolute_url }}) | |
 | [Slits and Gratings]({{ "/teaching/phy/shared/lesson-plans/slits-and-gratings.html" | absolute_url }}) | |
 | [Thin Film Interference]({{ "/teaching/phy/shared/lesson-plans/thin-film-interference.html" | absolute_url }}) | |
+| [Foundations of Special Relativity]({{ "/teaching/phy/122/lesson-plans/foundations-of-special-relativity.html" | absolute_url }}) | |
 | [Nuclear Radiation]({{ "/teaching/phy/122/lesson-plans/nuclear-radiation.html" | absolute_url }}) | |
 | [Half Life]({{ "/teaching/phy/122/lesson-plans/half-life.html" | absolute_url }}) | |
 
