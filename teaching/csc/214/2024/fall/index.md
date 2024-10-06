@@ -21,6 +21,7 @@ semester: Fall 2024
 | [Payroll]({{ "/teaching/csc/214/labs/payroll.html" | absolute_url }}) | 1 | September 8, 2024 |
 | [Count'em Up!]({{ "/teaching/csc/214/labs/count-em-up.html" | absolute_url }}) | 1 | September 15, 2024 |
 | [Am I a Muenster for Making Cheese Puns?]({{ "/teaching/csc/214/labs/am-i-a-muenster-for-making-cheese-puns.html" | absolute_url }}) | 2 | October 6, 2024 |
+| [Zip It!]({{ "/teaching/csc/214/labs/zip-it.html" | absolute_url }}) | 2 | October 13, 2024 |
 
 ## Portfolio Assignments
 
