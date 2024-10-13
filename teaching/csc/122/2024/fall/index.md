@@ -33,6 +33,8 @@ semester: Fall 2024
 | [Slide to the Left]({{ "/teaching/csc/122/labs/slide-to-the-left.html" | absolute_url }}) | 1 |
 | [Shapes]({{ "/teaching/csc/122/labs/shapes.html" | absolute_url }}) | 2 |
 | [Go With the Flow]({{ "/teaching/csc/122/labs/go-with-the-flow.html" | absolute_url }}) | 2 |
+| [You Get an A!]({{ "/teaching/csc/122/labs/you-get-an-a.html" | absolute_url }}) | 2 |
+| [Let's Test it Out]({{ "/teaching/csc/122/labs/lets-test-it-out.html" | absolute_url }}) | 2 |
 
 ## In-Class Activities
 
