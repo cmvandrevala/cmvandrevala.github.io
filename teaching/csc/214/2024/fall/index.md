@@ -7,8 +7,9 @@ semester: Fall 2024
 
 ## Useful Resources
 
-* [Lab Grading Rubric](./lab-grading-rubric.html)
-* [Portfolios](./portfolios.html)
+* [Getting Set Up With Java]({{ "/teaching/csc/shared/documents/getting-set-up-with-java.html" | absolute_url }})
+* [Lab Grading Rubric]({{ "/teaching/csc/214/2024/fall/lab-grading-rubric.html" | absolute_url }})
+* [Portfolios]({{ "/teaching/csc/214/2024/fall/portfolios.html" | absolute_url }})
 
 ## Lab Instructions
 

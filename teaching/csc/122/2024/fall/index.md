@@ -7,8 +7,9 @@ semester: Fall 2024
 
 ## Useful Resources
 
-* [Lab Grading Rubric](./lab-grading-rubric.html)
-* [Portfolios](./portfolios.html)
+* [Getting Set Up With C++]({{ "/teaching/csc/shared/documents/getting-set-up-with-cpp.html" | absolute_url }})
+* [Lab Grading Rubric]({{ "/teaching/csc/122/2024/fall/lab-grading-rubric.html" | absolute_url }})
+* [Portfolios]({{ "/teaching/csc/122/2024/fall/portfolios.html" | absolute_url }})
 
 ## Lecture Notes
 
