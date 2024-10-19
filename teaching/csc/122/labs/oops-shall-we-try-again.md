@@ -132,7 +132,7 @@ You get to choose what the program does if the user aborts the menu. After you i
 
 ### (Three Credits) String Input Types
 
-Right now, our menu can only handle integer inputs. However, it would be nice to be able to handle both strings and integers. Update your code with an overloaded function that prompts the user for a string input. That way, a caller can decide if they want a user to enter an integer or a string, and then choose the appropriate menu function.
+Right now, our menu can only handle integer inputs. However, it would be nice to be able to handle both strings and integers. Update your code so that a consumer of your function can choose to prompt the user for a string or integer input. There are a variety of ways to do this (i.e. overloaded functions, generics, etc.).
 
 The string function should not have any lower or upper bounds. The string is valid as long as it is greater than zero in length.
 
