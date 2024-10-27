@@ -36,6 +36,7 @@ semester: Fall 2024
 | [Go With the Flow]({{ "/teaching/csc/122/labs/go-with-the-flow.html" | absolute_url }}) | 2 |
 | [You Get an A!]({{ "/teaching/csc/122/labs/you-get-an-a.html" | absolute_url }}) | 2 |
 | [Let's Test it Out]({{ "/teaching/csc/122/labs/lets-test-it-out.html" | absolute_url }}) | 2 |
+| [What Runs All Day But Has No Legs?]({{ "/teaching/csc/122/labs/what-runs-all-day-but-has-no-legs.html" | absolute_url }}) | 2 |
 | [Meet in the Middle]({{ "/teaching/csc/122/labs/meet-in-the-middle.html" | absolute_url }}) | 3 |
 
 ## In-Class Activities
