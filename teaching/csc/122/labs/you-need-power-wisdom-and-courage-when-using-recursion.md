@@ -39,7 +39,7 @@ Create a class called `TriangleNumberCalculator` with the following methods:
 * `int add(int n, int m)` which adds the nth and mth triangular numbers
 * `int subtract(int n, int m)` which subtracts the nth and mth triangular numbers
 
-Be sure to test all of your methods using JUnit!
+Be sure to test all of your methods!
 
 ## 📋 Dev Notes
 
