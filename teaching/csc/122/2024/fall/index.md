@@ -48,5 +48,4 @@ semester: Fall 2024
 | [Pointer Exercises]({{ "/teaching/csc/122/activities/pointer-exercises.html" | absolute_url }}) | 1 |
 | [String Calculator]({{ "/teaching/csc/122/activities/string-calculator.html" | absolute_url }}) | 2 |
 | [Student Class]({{ "/teaching/csc/shared/activities/student-class.html" | absolute_url }}) | 2 |
-| [Exercises: Pointers](https://erlerobotics.gitbooks.io/erle-robotics-cpp-gitbook/content/pointers/exercises_pointers.html) | 3 |
 | [Point of Sale]({{ "/teaching/csc/122/activities/point-of-sale.html" | absolute_url }}) | 3 |
