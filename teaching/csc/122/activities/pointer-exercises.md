@@ -31,7 +31,7 @@ Create a vector of integers (`vector<int>`) that contains some odd number of ran
 
 ## ✅ Acceptance Criteria
 
-* You should write a short solution for each of the questions listed in the Problem Statement.
+* You should write a short program for each of the questions listed in the Problem Statement.
 * Use pointer arithmetic as much as possible (e.g. avoid using array index notation if you could instead use pointers).
 
 ## 📋 Dev Notes

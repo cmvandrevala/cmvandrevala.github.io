@@ -46,6 +46,7 @@ semester: Fall 2024
 | [Introduction to Git and GitHub]({{ "/teaching/csc/122/activities/introduction-to-git-and-github.html" | absolute_url }}) | 1 |
 | [Password Validator]({{ "/teaching/csc/122/activities/password-validator.html" | absolute_url }}) | 1 |
 | [Pointer Exercises]({{ "/teaching/csc/122/activities/pointer-exercises.html" | absolute_url }}) | 1 |
+| [Dynamic Memory Exercises]({{ "/teaching/csc/122/activities/dynamic-memory-exercises.html" | absolute_url }}) | 1 |
 | [String Calculator]({{ "/teaching/csc/122/activities/string-calculator.html" | absolute_url }}) | 2 |
 | [Student Class]({{ "/teaching/csc/shared/activities/student-class.html" | absolute_url }}) | 2 |
 | [Point of Sale]({{ "/teaching/csc/122/activities/point-of-sale.html" | absolute_url }}) | 3 |
