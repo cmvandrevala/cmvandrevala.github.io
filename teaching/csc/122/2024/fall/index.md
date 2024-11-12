@@ -45,6 +45,7 @@ semester: Fall 2024
 | ------------- | ---- |
 | [Introduction to Git and GitHub]({{ "/teaching/csc/122/activities/introduction-to-git-and-github.html" | absolute_url }}) | 1 |
 | [Password Validator]({{ "/teaching/csc/122/activities/password-validator.html" | absolute_url }}) | 1 |
+| [Pointer Exercises]({{ "/teaching/csc/122/activities/pointer-exercises.html" | absolute_url }}) | 1 |
 | [String Calculator]({{ "/teaching/csc/122/activities/string-calculator.html" | absolute_url }}) | 2 |
 | [Student Class]({{ "/teaching/csc/shared/activities/student-class.html" | absolute_url }}) | 2 |
 | [Exercises: Pointers](https://erlerobotics.gitbooks.io/erle-robotics-cpp-gitbook/content/pointers/exercises_pointers.html) | 3 |
