@@ -49,3 +49,4 @@ semester: Fall 2024
 | [String Calculator]({{ "/teaching/csc/122/activities/string-calculator.html" | absolute_url }}) | 2 |
 | [Student Class]({{ "/teaching/csc/shared/activities/student-class.html" | absolute_url }}) | 2 |
 | [Point of Sale]({{ "/teaching/csc/122/activities/point-of-sale.html" | absolute_url }}) | 3 |
+| [Friend Keyword]({{ "/teaching/csc/122/activities/friend-keyword.html" | absolute_url }}) | 3 |
