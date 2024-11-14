@@ -29,7 +29,7 @@ Write a stack data structure that stores `Dish` objects. Like the post linked ab
 * You cannot use the built-in stack from Java in this solution.
 * You do not have to implement the `Dish` object from scratch. I have provided it here:
 
-```cpp
+```java
 class Dish {
   public String description;
 
@@ -43,8 +43,8 @@ class Dish {
 
 You could create a driver program that tests the stack data structure (call it `DishStack`). It might look something like this:
 
-```cpp
-DishStack stack;
+```java
+DishStack stack = new DishStack();
 Dish oneDish = new Dish("A dish with one fish pattern on it");
 Dish twoDish = new Dish("A dish with two fish patterns on it");
 Dish redDish = new Dish("A dish with a red fish pattern on it");
@@ -86,7 +86,7 @@ int finalSize = stack.size();
 Create a method that clears all elements in the stack. The behavior of this method might look something like this in a driver program:
 
 ```java
-DishStack stack;
+DishStack stack = new DishStack();
 Dish dishOne = new Dish("Dish 1");
 Dish dishTwo = new Dish("Dish 2");
 
