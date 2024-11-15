@@ -8,3 +8,4 @@ semester: Spring 2025
 ## Useful Resources
 
 * [Lab Grading Rubric](./lab-grading-rubric.html)
+* [Portfolios](./portfolios.html)
