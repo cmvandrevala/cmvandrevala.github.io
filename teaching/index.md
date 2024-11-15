@@ -9,6 +9,7 @@ title: Teaching
 | ------------- | -------- | ---- |
 | [CSC 122]({{ "/teaching/csc/122/2024/fall/index.html" | absolute_url }}) | Fall | 2024 |
 | [CSC 214]({{ "/teaching/csc/214/2024/fall/index.html" | absolute_url }}) | Fall | 2024 |
+| [CSC 121]({{ "/teaching/csc/121/2025/spring/index.html" | absolute_url }}) | Spring | 2025 |
 
 ## Archived Courses
 
