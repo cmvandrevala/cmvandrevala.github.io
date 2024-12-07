@@ -23,7 +23,7 @@ This problem is available courtesy of {% cite jamesOperateThis %}.
 
 ## 🎯 Problem Statement
 
-Create a class called `Point` that is initialized with two numbers (the x- and y-coordinates) of the point. Then,the following overloaded operators on the class - distance, equality, inequality, and midpoint.
+Create a class called `Point` that is initialized with the x- and y-coordinates of the point. Then, create the following overloaded operators on the class - distance, equality, inequality, midpoint, and output streaming.
 
 ## ✅ Acceptance Criteria
 
@@ -32,11 +32,12 @@ Create a class called `Point` that is initialized with two numbers (the x- and y
 * Override the `==` operator on `Point` so that it determines if two points are the same coordinate or different coordinates.
 * Override the `!=` operator on `Point` so that it determines if two points are not the same coordinate or different coordinates.
 * Override the `/` operator on `Point` so that it determines midpoint between the two points.
+* Override the `<<` operator on `Point` so that a user can stream a point as if it were a C++ string.
 * Test all of the methods on the class either through unit tests, a driver program, or both.
 
 ## 📋 Dev Notes
 
-There might be other methods that you want to implement to help you test this class (like pretty print or a getter for the x / y coordinate). Feel free to implement those methods as needed!
+There might be other methods that you want to implement to help you test this class like pretty print or a getter for the x and y coordinates. Feel free to implement those methods as needed.
 
 ## 🖥️ Example Output
 
@@ -49,12 +50,12 @@ Point p2 = Point(5.5, -1.2);
 cout << p1 - p2 << endl; // Prints out 11.238
 cout << p1 == p2 << endl; // Prints out 0 (false)
 cout << p1 != p2 << endl; // Prints out 1 (true)
-cout << p1 / p2 << endl; // Prints out (4.35, 4.3)
+cout << p1 / p2 << endl; // Prints out a nicely formatted point such as (4.35, 4.3)
 ```
 
 ## 📝 Thought Provoking Questions
 
-1. What type(s) do equality and and inequality return?
+1. What type(s) do equality and inequality return?
 2. What type does distance return?
 3. What type does midpoint return?
 4. Do you like the names of the overloaded operators? Are there any that might cause confusion?
