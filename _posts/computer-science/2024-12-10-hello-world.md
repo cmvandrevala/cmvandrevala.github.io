@@ -1,15 +1,10 @@
 ---
 title: Hello World!
 date: 2024-12-10 10:00:00 -0600
-categories: [Labs]
+categories: [Computer Science, Labs]
 tags: [c++, java, csc-121, csc-122, csc-214]
 description: This lab is a simple way to make sure that your local setup is working properly. It sets the stage to make sure that you can develop on your workstation.
 ---
-
-## 🛠️ Templates
-
-* C++ Template
-* Java Template
 
 ## 🔖 Background Information
 
@@ -27,7 +22,7 @@ Write a program that prints "Hello World!" to the terminal and then exits gracef
 
 ## 📋 Dev Notes
 
-The goal of this assignment is to make sure that your dev setup is working properly. Some things that you might want to consider as you work through this include:
+The goal of this assignment is to make sure that your workstation is set up properly, and you are ready to write code. Some things that you might want to consider as you work through this include:
 
 * Do you have a working compiler or interpreter installed on your computer?
 * Are you using a recent version of the language?
@@ -58,11 +53,16 @@ Hello World!
 
 ## 📝 Thought Provoking Questions
 
-There are no thought provoking questions for this lab. The goal is to get your workstation set up for future development.
+There are no thought provoking questions for this lab.
 
 ## 💼 Add-Ons For the Portfolio
 
 There are no add-ons available for this lab.
+
+## 🔗 Useful Links
+
+* [C++ Project Template](https://github.com/cmvandrevala/hello-world-cpp-template)
+* [Java Project Template](https://github.com/cmvandrevala/hello-world-java-template)
 
 ## 📘 Works Cited
 
