@@ -1,8 +1,8 @@
 ---
-title: A Terribly Weighty Subject
+title: A Terribly Weighty Subject (C++)
 date: 2024-12-16 05:30:00 -0600
 categories: [Computer Science, Labs]
-tags: [c++, java, csc-121, csc-214]
+tags: [c++, csc-121]
 math: true
 description: In this lab you write a simple program that can convert weights between ounces and pounds. It will help you get started with some basic mathematical operations.
 ---
@@ -139,7 +139,6 @@ $$
 ## 🔗 Useful Links
 
 * [C++ Project Template](https://github.com/cmvandrevala/a-terribly-weighty-subject-cpp-template)
-* [Java Project Template](https://github.com/cmvandrevala/a-terribly-weighty-subject-java-template)
 
 ## 📘 Works Cited
 
