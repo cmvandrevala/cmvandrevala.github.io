@@ -3,6 +3,9 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+# Added by Cyrus Vandrevala - Additional plugins not included with the Chirpy theme
+plugins: ["jekyll/scholar"]
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -151,6 +154,14 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
+
+# Jekyll Scholar, Added by Cyrus Vandrevala on 2024-12-16
+scholar:
+  enabled: true
+  style: modern-language-association
+  locale: en
+  source: /_bibliography/
+  bibliography: sources.bib
 
 # ------------ The following options are not recommended to be modified ------------------
 
