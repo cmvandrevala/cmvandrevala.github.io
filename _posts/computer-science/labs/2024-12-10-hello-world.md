@@ -2,7 +2,8 @@
 title: Hello World!
 date: 2024-12-10 10:00:00 -0600
 categories: [Computer Science, Labs]
-tags: [c++, java, csc-121, csc-122, csc-214]
+tags: [c++, java, csc-121, csc-122, csc-214, initial-setup]
+math: false
 description: This lab is a simple way to make sure that your local setup is working properly. It sets the stage to make sure that you can develop on your workstation.
 ---
 
@@ -35,7 +36,11 @@ The goal of this assignment is to make sure that your workstation is set up prop
 
 ## 🖥️ Example Output
 
-The goal of this program is to print "Hello World" out to the screen. This will look different depending on the language that we are using in the class. For example, you might run your program in C++ as follows:
+The goal of this program is to print "Hello World" out to the screen. This will look different depending on the language that we are using in the class.
+
+### C++
+
+You might run your program in C++ from the command line:
 
 ```bash
 $ ./hello.out
@@ -43,7 +48,9 @@ $ ./hello.out
 Hello World!
 ```
 
-Whereas in Java, you might utilize a build tool like Gradle:
+### Java
+
+You might utilize a build tool like Gradle:
 
 ```bash
 $ gradle run
