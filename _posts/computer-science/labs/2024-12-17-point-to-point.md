@@ -134,6 +134,10 @@ Thank you for using the 2D Midpoint Program.
 
 The program should not change, otherwise.
 
+## 🔗 Useful Links
+
+* [C++ Project Template](https://github.com/cmvandrevala/a-terribly-weighty-subject-cpp-template)
+
 ## 📘 Works Cited
 
 This problem is available courtesy of Professor Jason James {% cite jamesPointPoint2017 %}
