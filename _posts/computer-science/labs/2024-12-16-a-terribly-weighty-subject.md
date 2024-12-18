@@ -2,16 +2,14 @@
 title: A Terribly Weighty Subject
 date: 2024-12-16 05:30:00 -0600
 categories: [Computer Science, Labs]
-tags: [c++, java, csc-121, csc-214]
+tags: [c++, java, csc-121, csc-214, basic-math]
 math: true
-description: In this lab you write a simple program that can convert weights between ounces and pounds. It will help you get started with some basic mathematical operations.
+description: In this lab you write a program that can convert weights between ounces and pounds. It will help you get started with some basic mathematical operations.
 ---
 
 ## 🔖 Background Information
 
 In the Imperial system of measurements, weight can be measured using ounces and pounds. There are 16 ounces in one pound. Ounce is abbreviated as "oz" and pound is abbreviated as "lb" (singular) or "lbs" (plural).
-
-This problem is available courtesy of {% cite jamesTERRIBLYWeightySubject2017 %}.
 
 ## 🎯 Problem Statement
 
@@ -149,5 +147,7 @@ Create a function that takes two arguments - an integer number of pounds and an 
 * [Java Project Template](https://github.com/cmvandrevala/a-terribly-weighty-subject-java-template)
 
 ## 📘 Works Cited
+
+This problem is available courtesy of Professor Jason James {% cite jamesTERRIBLYWeightySubject2017 %}.
 
 {% bibliography --cited %}
