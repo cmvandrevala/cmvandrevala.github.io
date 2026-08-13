@@ -99,6 +99,8 @@ plugins:
   - source: "@quartz-community/citations"
     enabled: true
     order: 85
+    options:
+      linkCitations: true
   - source: "@quartz-community/hard-line-breaks"
     enabled: true
     order: 90
